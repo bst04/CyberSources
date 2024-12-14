@@ -181,6 +181,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 [Holehe](https://github.com/megadose/holehe)| allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.|
 [Hunter](https://hunter.io)| Hunter lets you find email addresses in seconds and connect with the people that matter for your business.|
 [LeakCheck](https://leakcheck.io/)|Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.| 
+|[Telegram Group](https://t.me/+tObrYXqGOetmODhl)|Free|Use /s then email.|
+
 
 #### 5. [↑](#-content) GEOINT
 
