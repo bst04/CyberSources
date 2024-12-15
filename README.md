@@ -603,7 +603,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography) | A deep learning based steganography tool. |
 | [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
 | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
-| [StegCracker](https://github.com/Paradoxis/StegCracker) | A steganography brute-force tool. |
+| [StegCracker](https://github.com/Paradoxis/StegCracker) | A tool for brute-forcing passwords of hidden data in steganographic images. |
 | [StegExpose](https://github.com/b3dk7/StegExpose) | A steganalysis tool for detecting hidden data. |
 | [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
 | [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
@@ -675,7 +675,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [UDSS](https://github.com/rabi3elbeji/udss) | A project for universal deep steganalysis systems. |
 | [BreakingSteganalysisGAN](https://github.com/Chenlang2018/BreakingSteganalysisGAN) | A project on breaking steganalysis using generative adversarial networks (GAN). |
 | [Steganalyse](https://github.com/jessica0x73/steganalyse) | A steganalysis tool. |
-| [StegCracker](https://github.com/Paradoxis/StegCracker) | A tool for brute-forcing passwords of hidden data in steganographic images. |
 | [Welloganography Solver](https://github.com/welloworld/welloganography-solver) | A steganography analysis tool. |
 | [McAfee Free Tools - Steganography](https://www.mcafee.com/enterprise/en-sg/downloads/free-tools/steganography.html) | A collection of free steganography tools provided by McAfee. |
 | [Mistica](https://github.com/IncideDigital/Mistica) | A steganography analysis tool. |
