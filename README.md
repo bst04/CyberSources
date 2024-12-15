@@ -604,7 +604,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
 | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
 | [StegCracker](https://github.com/Paradoxis/StegCracker) | A tool for brute-forcing passwords of hidden data in steganographic images. |
-| [StegExpose](https://github.com/b3dk7/StegExpose) | A steganalysis tool for detecting hidden data. |
 | [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
 | [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
 | [SteCoSteg](https://github.com/cryptolok/SteCoSteg) | A steganography tool. |
