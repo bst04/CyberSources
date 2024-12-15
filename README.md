@@ -137,7 +137,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [WhatsMyName](https://whatsmyname.app)        | Search for usernames across multiple platforms.                              |
 | [NameCheck](https://www.namecheckr.com)       | Verify username availability on various websites.                           |
 | [UserSearch](https://usersearch.org)          | User-Searcher is a powerful and free tool to help you search username in 2000+ websites.                      |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced username search tool for OSINT.                                    |
 [CheckUser](https://checkuser.vercel.app/)| search username across social networks|
 [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | A username search tool that crawls adult content platforms to see if a targeted account or person is present.|
 [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)|Check for registered username on 100s of sites for free.|
