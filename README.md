@@ -777,7 +777,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Odin](https://cybersectools.com/tools/odin)         | Malware analysis platform with advanced threat detection.                     |
 | [Distribute](https://cybersectools.com/tools/distribute) | Malware analysis tool that helps distribute files for analysis.                |
 | [YaraStation](https://cybersectools.com/tools/yarastation) | Management portal for Yara rule-based malware scanning.                        |
-| [CAPE](https://cybersectools.com/tools/cape)         | Malware sandbox designed for executing and analyzing malicious files.          |
 
 ### [↑](#-content) 27. SIEM
 
