@@ -278,7 +278,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |--|--|
 |[recon-ng](https://github.com/lanmaster53/recon-ng)|A web reconnaissance framework.|
 |[SpySe](https://spyse.com/)|Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.|
-|[FindSubdomains](https://findsubdomains.com/)|A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.|
 |[Git-Scanner](https://github.com/HightechSec/git-scanner)|A tool for bug hunting or pentesting for targeting websites that have open .git repositories available in public|
 |[Keyscope](https://github.com/SpectralOps/keyscope)|An extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors|
 |[VHostScan](https://github.com/codingo/VHostScan)|A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.|
