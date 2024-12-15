@@ -351,8 +351,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [evtkit](https://cybersectools.com/tools/evtkit) | Tool for fixing acquired Windows Event Log files. |  
 | [Pancake Viewer](https://cybersectools.com/tools/pancake-viewer) | DFVFS-backed viewer for file extraction and viewing. |  
 | [Mobile Verification Toolkit (MVT)](https://cybersectools.com/tools/mobile-verification-toolkit) | Forensic research tool for gathering traces from Android and iOS devices. |  
-| [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |  
-| [Skadi](https://cybersectools.com/tools/skadi) | A free, open-source toolset for analyzing forensic artifacts and images. |  
+| [Turbinia](https://cybersectools.com/tools/turbinia) | Framework for automating forensic processing in cloud environments. |   
 | [Belkasoft Evidence Center](https://cybersectools.com/tools/belkasoft-evidence-center) | Comprehensive platform for digital forensics and incident response. |  
 | [libevt](https://cybersectools.com/tools/libevt) | Library for parsing Windows Event Logs. |  
 
