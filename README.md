@@ -603,7 +603,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Deep-Steganography](https://github.com/harveyslash/Deep-Steganography) | A deep learning based steganography tool. |
 | [AudioStego](https://github.com/danielcardeenas/AudioStego) | A tool for audio steganography. |
 | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) | Algorithms for audio steganography. |
-| [StegCracker](https://github.com/Paradoxis/StegCracker) | A tool for brute-forcing passwords of hidden data in steganographic images. |
 | [jphs](https://github.com/h3xx/jphs) | A steganography tool. |
 | [StegDroid](https://github.com/fredley/StegDroid) | A steganography tool for Android. |
 | [SteCoSteg](https://github.com/cryptolok/SteCoSteg) | A steganography tool. |
@@ -652,6 +651,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [JJTC Steganalysis](http://www.jjtc.com/Steganalysis/) | A resource for various steganalysis techniques and tools. |
 | [Guillermito's Steganography](https://www.guillermito2.net/stegano/) | An informative site on steganography tools and techniques. |
 | [Stegdetect](http://www.outguess.org) | A popular steganography detection tool capable of detecting hidden data in images. |
+| [StegCracker](https://github.com/Paradoxis/StegCracker) | A tool for brute-forcing passwords of hidden data in steganographic images. |
 | [Spy Hunter](http://www.spy-hunter.com/stegspydownload.htm) | A tool designed to detect steganography usage and hidden data. |
 | [Stegkit](https://www.sbir.gov/sbirsearch/detail/151266) | A steganography kit used for hiding and extracting hidden messages in images. |
 | [Stegalyzer](http://www.sarc-wv.com/products/stegalyzeras.aspx) | A tool designed for detecting and analyzing steganographic content in digital images. |
