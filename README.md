@@ -300,7 +300,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 |[mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j)|Man-in-the-middle SOCKS Proxy for Java|
 |[ssh-mitm](https://github.com/jtesta/ssh-mitm)|An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.|
 |[nmap](https://nmap.org/)|Nmap (Network Mapper) is a security scanner|
-|[Aircrack-ng](http://www.aircrack-ng.org/)| An 802.11 WEP and WPA-PSK keys cracking program||
 |[Nipe](https://github.com/GouveaHeitor/nipe)|A script to make Tor Network your default gateway.|
 |[Habu](https://github.com/portantier/habu)|Python Network Hacking Toolkit|
 |[Wifi Jammer](https://n0where.net/wifijammer/)|Free program to jam all wifi clients in range|
