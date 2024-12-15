@@ -437,7 +437,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [Otzberg.net](https://www.otzberg.net/iguserid/index.php) | Tool for finding Instagram user IDs. |
 | [Panoramiq](https://apps.hootsuite.com/apps/panoramiq) | Tool for scheduling and managing Instagram posts. |
 | [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for social media platforms. |
-| [Phlanx: Instagram Engagement Calculator](https://phlanx.com/engagement-calculator) | Tool for calculating Instagram engagement rates. |
 | [Picodash](https://www.picodash.com) | Tool for searching and organizing Instagram content. |
 | [Scylla](https://github.com/josh0xA/Scylla) | Tool for Instagram OSINT and data scraping. |
 | [Skimagram](https://snoopreport.com) | Tool for tracking Instagram activity. |
