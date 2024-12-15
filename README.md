@@ -771,7 +771,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [qsfuzz](https://cybersectools.com/tools/qsfuzz)     | Fuzzes query strings to identify security vulnerabilities.                    |
 | [Weaponised-XSS-payloads](https://cybersectools.com/tools/weaponised-xss-payloads) | A collection of XSS payloads for exploiting web vulnerabilities.               |
 | [XSSor](https://cybersectools.com/tools/xssor)       | A tool for exploiting and testing XSS vulnerabilities in web apps.             |
-| [KLara](https://cybersectools.com/tools/klara)       | Distributed Yara rule tool for malware research.                              |
 | [ReClass](https://cybersectools.com/tools/reclass)   | A reverse engineering tool for Windows executable analysis.                    |
 | [Malwover](https://cybersectools.com/tools/malwover) | Malware detection and prevention for advanced cyber threats.                  |
 | [Odin](https://cybersectools.com/tools/odin)         | Malware analysis platform with advanced threat detection.                     |
