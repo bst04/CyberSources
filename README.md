@@ -541,11 +541,9 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok) | Chrome extension for downloading photos and videos from Instagram. |
 | [Engagement-calculator](https://phlanx.com/engagement-calculator) | Tool for calculating engagement rates on Instagram. |
 | [Export Comments](https://exportcomments.com) | Tool for exporting Instagram comments. |
-| [Hashtagify](http://hashtagify.me) | Tool for finding and analyzing hashtags. |
 | [Hashtags for Likes](https://www.hashtagsforlikes.co) | Tool for finding the best hashtags for Instagram. |
 | [HypeAuditor](https://hypeauditor.com) | Tool for analyzing the authenticity of influencers and their engagement. |
 | [Iconosquare](http://iconosquare.com) | Tool for managing and analyzing Instagram accounts. |
-| [IGSuperStar](https://igsuperstar.com) | Tool for finding Instagram influencers. |
 | [Imgbunk](https://imgbunk.com) | Tool for searching and downloading Instagram photos. |
 | [ImgInn](https://imginn.com) | Tool for viewing and downloading Instagram stories anonymously. |
 | [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags) | Tool for finding the best tags for your Instagram posts. |
@@ -566,16 +564,12 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [noninstagram](https://github.com/datvance/noinstagram) | Tool for Instagram data analysis. |
 | [Osi.ig](https://github.com/th3unkn0n/osi.ig) | Tool for Instagram OSINT. |
 | [Osintgram](https://github.com/Datalux/Osintgram) | OSINT tool for analyzing Instagram profiles and posts. |
-| [Otzberg.net](https://www.otzberg.net/iguserid/index.php) | Tool for finding Instagram user IDs. |
 | [Panoramiq](https://apps.hootsuite.com/apps/panoramiq) | Tool for scheduling and managing Instagram posts. |
 | [Phantom Buster](https://phantombuster.com/phantombuster) | Automation tool for social media platforms. |
-| [Picodash](https://www.picodash.com) | Tool for searching and organizing Instagram content. |
-| [Scylla](https://github.com/josh0xA/Scylla) | Tool for Instagram OSINT and data scraping. |
 | [Skimagram](https://snoopreport.com) | Tool for tracking Instagram activity. |
 | [Social-alerts](https://github.com/mamoedo/social-alerts) | Tool for setting up social media alerts. |
 | [SocialInsider](https://www.socialinsider.io) | Tool for social media analytics and competitive analysis. |
 | [socid_extractor](https://github.com/soxoj/socid_extractor) | Tool for extracting social media IDs. |
-| [SoIG](https://github.com/yezz123/SoIG) | Tool for Instagram OSINT. |
 | [tailwind](https://www.tailwindapp.com) | Tool for scheduling and managing Instagram posts. |
 | [ThumbTube](https://thumbtube.com/instagram-profile-picture-downloader) | Tool for downloading Instagram profile pictures. |
 | [trendHERO](https://trendhero.io) | Tool for influencer marketing and analytics. |
