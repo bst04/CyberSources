@@ -146,16 +146,13 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [WhatsMyName](https://whatsmyname.app)        | Locate usernames across numerous platforms.                                   |
 | [NameCheck](https://www.namecheckr.com)       | Check username availability on various websites.                             |
 | [UserSearch](https://usersearch.org)          | Free tool to search usernames on 2000+ websites.                             |
-| [BlackBird](https://blackbird-osint.herokuapp.com) | Advanced tool for OSINT username searches.                                   |
 | [CheckUser](https://checkuser.vercel.app/)    | Search for usernames across social networks.                                 |
-| [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) | Crawls adult content platforms to search for specific usernames.             |
 | [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html) | Free tool to verify usernames registered on hundreds of sites.               |
 | [IDCrawl](https://www.idcrawl.com/username)   | Find usernames on popular social networks.                                   |
 | [Maigret](https://github.com/soxoj/maigret)   | Collect detailed information on individuals using their username.            |
 | [Name Chk](http://www.namechk.com)            | Verify usernames on over 90 social media platforms and 30 domain extensions. |
 | [Name Checkr](http://www.namecheckr.com)      | Search for domains and usernames across multiple platforms.                  |
 | [Name Checkup](https://namecheckup.com)       | Check username and domain availability across social media and websites.     |
-| [NameKetchup](https://nameketchup.com)        | Explore domain name and username availability on popular platforms.          |
 | [NexFil](https://github.com/thewhiteh4t/nexfil) | Identify usernames across nearly all social network sites.                   |
 | [Seekr](https://github.com/seekr-osint/seekr) | Multi-tool for OSINT data management, note-taking, and username checking.    |
 | [SherlockEye](https://sherlockeye.io/)        | Discover publicly available information tied to a username.                  |
