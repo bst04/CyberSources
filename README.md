@@ -302,11 +302,8 @@ If you find this repository helpful, please consider giving it a star! Your supp
 
 |Tools|Description|
 |--|--|
-| [DnsEnum](https://www.google.com/search?btnI=1&q=DnsEnum) | Multithreaded Perl script for DNS enumeration and identifying non-contiguous IP blocks. |
 | [Amass](https://github.com/owasp-amass/amass) | Tool for subdomain enumeration using data sources, brute force, web archives, and machine learning. |
-| [Columbus Project](https://columbus.elmasy.com/) | Advanced subdomain discovery service with a fast, user-friendly API. |
 | [findsubdomains](https://findsubdomains.com/) | Automatically collects subdomains from various online sources. |
-| [Merklemap](https://www.merklemap.com/) | Enumerates subdomains, including hidden ones, by analyzing certificate transparency logs. |
 | [Subdomains Top 1 Million (5000)](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-5000.txt) | List of subdomains from the top 1 million domains, ideal for large-scale enumeration. |
 | [Shubs Subdomains](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/shubs-subdomains.txt) | Subdomain list gathered by Shubs, valuable for reconnaissance purposes. |
 | [DNS Jhaddix List](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/dns-Jhaddix.txt) | Curated list of subdomains by Jhaddix, tailored for penetration testing. |
@@ -320,7 +317,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [ZoomEye](https://www.zoomeye.org)        | A freemium tool for security reconnaissance, scanning for vulnerable devices online.      |  
 | [Censys](https://www.censys.io)           | Assess the attack surface of internet-connected devices and platforms.                   |  
 | [ViewDNS.info](https://viewdns.info)     | Perform reverse IP and Whois lookups to find hosted websites and domain owner details.    |  
-| [Internet Census 2012](https://internetcensus2012.org) | Access service probe records from a large-scale 2012 internet scan.                      |  
 | [ONYPHE](https://www.onyphe.io)           | Cyber defense search engine that indexes exposed assets from the internet and dark web.  |  
 | [IPLeak](https://ipleak.net)             | Test for leaks in your IP address, DNS, and WebRTC during online activity.                |  
 | [Robtex](https://www.robtex.com)          | Research IP numbers, domains, and other online assets for deeper analysis.               |  
@@ -342,7 +338,6 @@ If you find this repository helpful, please consider giving it a star! Your supp
 | [IP Search](https://www.ipsearch.com)      | Access a network reputation database to find malicious IP addresses.                     |  
 | [Reverse Domain](https://www.reversedomain.com) | Discover domain names based on keyword searches.                                         |  
 | [IANA - Root Zone Database](https://www.iana.org/domains/root/db) | Provides delegation details for top-level domains (TLDs) like .com, .uk, and more.        |  
-| [PunkSpider](https://www.punkspider.org)   | Search for vulnerable websites to assess security risks.                                |  
 | [Metabigor](https://www.metabigor.com)     | Offers various OSINT tools without requiring an API key for access.                     |  
 | [URLDNA](https://www.urldna.com)           | Gather information about URLs, such as SSL certificates, IP, and metadata.               |  
 | [Check-The-Sum](https://www.checkthesum.com) | A database of malicious files, IPs, and domains collected from honeypots.                |
