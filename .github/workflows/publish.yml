@@ -37,7 +37,7 @@ jobs:
           static_site_generator: next
 
       - name: Build with Next.js 🏗️
-        run: cd gh-pages && npx next build
+        run: cd gh-pages && npm run build
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
