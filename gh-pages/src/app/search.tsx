@@ -1,5 +1,5 @@
  'use client'
-import Image from "next/image";
+//import Image from "next/image";
 import { useState } from 'react';
 import { useFuzzySearchList, Highlight } from '@nozbe/microfuzz/react'
 import { FuzzySearchStrategy , FuzzyResult, HighlightRanges} from '@nozbe/microfuzz'
@@ -10,7 +10,8 @@ const mapResultItem = ({ item, matches: [highlightRanges] }: FSResult): [s:Sourc
 const getItemText = (item: Source) => [`${item.name} ${item.category}`]
 export default function Search() {
   const [queryText, setQueryText] = useState('')
-  const [strategy, setStrategy] = useState<FuzzySearchStrategy>('smart')
+  // const [strategy, setStrategy] = useState<FuzzySearchStrategy>('smart')
+  const strategy: FuzzySearchStrategy = 'smart'
   const filtered = useFuzzySearchList({ list: data, queryText, mapResultItem, strategy, getText:getItemText })
    const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setQueryText(event.target.value); // 3. Update the state
