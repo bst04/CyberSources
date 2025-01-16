@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import Search from '@/app/search';
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen min-w-screen gap-16  bg-gray-900  font-[family-name:var(--font-geist-sans)]">
@@ -14,12 +14,10 @@ export default function Home() {
       </div>
       <main className="flex flex-col items-center gap-16 px-8  pb-20">
         <h2 className="text-xl lg:max-w-[50%] sm:text-5xl font-black text-center text-gray-50">A curated list of cybersecurity tools and resources</h2>
-        <div className="rounded-md p-[3px] bg-gradient-to-r from-banner-start to-banner-end focus-within:motion-safe:animate-bg-loop bg-[length:120%_120%]">
-          <input className="w-80 bg-gray-900 p-2 rounded-md focus:outline-none" placeholder="read input | xargs find -t l {} ."/>
-        </div>
+        <Search />
       </main>
       <footer className="mt-auto row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
+        {/*<a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
           target="_blank"
@@ -63,7 +61,7 @@ export default function Home() {
             height={16}
           />
           Go to nextjs.org →
-        </a>
+        </a> */}
       </footer>
     </div>
   );
