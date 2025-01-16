@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "\"Aprendiendo Ciberseguridad paso a paso\" - DarFe",
+      "name": "Aprendiendo Ciberseguridad paso a paso - DarFe",
       "description": "Youtube Cybersecurity cycle.",
       "category": "Tinder",
       "subcategory": null,
@@ -11,7 +11,7 @@
       "link": "https://www.youtube.com/playlist?list=PL0QSAEWH0x_ihClxRlqpfmTE-Blar9ZNY"
     },
     {
-      "name": "\"Técnico en Ciberseguridad\" - DarFe",
+      "name": "Técnico en Ciberseguridad - DarFe",
       "description": "First level (free) Cybersecurity course.",
       "category": "Tinder",
       "subcategory": null,
@@ -21,7 +21,7 @@
       "link": "https:moodle.darfe.es"
     },
     {
-      "name": "**Blue Team Field Manual (BTFM)**",
+      "name": "Blue Team Field Manual (BTFM)",
       "description": "A reference guide for defensive security operations, offering tools and techniques to protect networks.",
       "category": "Tinder",
       "subcategory": null,
@@ -31,7 +31,7 @@
       "link": "https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/540636X"
     },
     {
-      "name": "**Cybersecurity - Attack and Defense Strategies**",
+      "name": "Cybersecurity - Attack and Defense Strategies",
       "description": "Covers both offensive and defensive strategies for protecting infrastructure against cyber threats.",
       "category": "Tinder",
       "subcategory": null,
@@ -39,7 +39,7 @@
       "link": "https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/78847529"
     },
     {
-      "name": "**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**",
+      "name": "Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous",
       "description": "A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching.",
       "category": "Tinder",
       "subcategory": null,
@@ -47,7 +47,7 @@
       "link": "https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/098504946"
     },
     {
-      "name": "**Kali Linux Revealed**",
+      "name": "Kali Linux Revealed",
       "description": "",
       "category": "Tinder",
       "subcategory": null,
@@ -55,7 +55,7 @@
       "link": "https://kali.training/downloads/Kali-Linux-Revealed-st-edition.pdf"
     },
     {
-      "name": "**NMAP Network Scanning: Official Discovery**",
+      "name": "NMAP Network Scanning: Official Discovery",
       "description": "Official documentation for using Nmap for network discovery and vulnerability scanning.",
       "category": "Tinder",
       "subcategory": null,
@@ -63,7 +63,7 @@
       "link": "https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/097995877"
     },
     {
-      "name": "**Penetration Testing: A Hands-On Introduction to Hacking**",
+      "name": "Penetration Testing: A Hands-On Introduction to Hacking",
       "description": "A comprehensive guide introducing penetration testing techniques and tools, designed for beginners.",
       "category": "Tinder",
       "subcategory": null,
@@ -71,7 +71,7 @@
       "link": "https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/59327564"
     },
     {
-      "name": "**Social Engineering: The Art of Human Hacking**",
+      "name": "Social Engineering: The Art of Human Hacking",
       "description": "Explores the psychological and technical aspects of social engineering and how to protect against it.",
       "category": "Tinder",
       "subcategory": null,
@@ -4227,7 +4227,7 @@
     },
     {
       "name": "MFOC",
-      "description": "MFOC is an open source implementation of \"offline nested\" attack",
+      "description": "MFOC is an open source implementation of offline nested attack",
       "category": "Tinder",
       "subcategory": null,
       "tags": [],
@@ -5805,7 +5805,7 @@
     },
     {
       "name": "Rubber Ducky",
-      "description": "A \"flash drive\" that types keystroke injection payloads into unsuspecting devices at incredible speeds. From Hak5.",
+      "description": "A flash drive that types keystroke injection payloads into unsuspecting devices at incredible speeds. From Hak5.",
       "category": "Tinder",
       "subcategory": null,
       "tags": [],
@@ -8124,7 +8124,7 @@
     },
     {
       "name": "cs50 - Harvard",
-      "description": "CS50's Introduction to Computer Science. Even if you are not a student at Harvard, you are welcome to \"take\" this course for free via this OpenCourseWare by working your way through the course's eleven weeks of material.",
+      "description": "CS50's Introduction to Computer Science. Even if you are not a student at Harvard, you are welcome to take this course for free via this OpenCourseWare by working your way through the course's eleven weeks of material.",
       "category": "Tinder",
       "subcategory": null,
       "tags": [],
