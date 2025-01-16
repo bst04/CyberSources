@@ -7,7 +7,7 @@ import { data } from './data.json'
 type Source = typeof data extends (infer U)[] ? U : never;
 type FSResult = FuzzyResult<Source>
 const mapResultItem = ({ item, matches: [highlightRanges] }: FSResult): [s:Source,h: HighlightRanges| null] => [item, highlightRanges]
-const getItemText = (item: Source) => [item.name]
+const getItemText = (item: Source) => [`${item.name} ${item.category}`]
 export default function Search() {
   const [queryText, setQueryText] = useState('')
   const [strategy, setStrategy] = useState<FuzzySearchStrategy>('smart')
