@@ -21,10 +21,18 @@ export default function Search() {
         <div className="rounded-md p-[3px] bg-gradient-to-r from-banner-start to-banner-end focus-within:motion-safe:animate-bg-loop bg-[length:120%_120%]">
           <input className="w-80 bg-gray-900 p-2 rounded-md focus:outline-none" placeholder="" onChange={handleInputChange} />
         </div>
-<ul className="results">
-        {filtered.slice(0, 40).map(([item, highlightRanges]) => (
-          <li key={item.name}>
-            <Highlight text={item.name} ranges={highlightRanges} />
+<ul className="lg:w-[70%] xl:w-[50%] flex flex-col gap-8">
+         {/* TODO: showing x amount filter */}
+        {filtered.slice(0, 100).map(([item,_ ]) => (
+          <li className='flex flex-col bg-black/60 w-full p-8 min-h-40 rounded-lg border  border-white' key={item.name}>
+            {/*<Highlight text={item.name} ranges={highlightRanges} />*/}
+               <h4 className='text-xl font-black'> {item.name}</h4>
+               <p className=''>{item.description}</p>
+               <div className='flex flex-row gap-4 mt-10 '>
+               {item.tags.map((t) => 
+                 <span key={`${item.name}-${t}`} className='text-xs w-fit text-black rounded-full bg-yellow-400 px-2 '>{t}</span>
+               )}
+               </div>
           </li>
         ))}
       </ul>

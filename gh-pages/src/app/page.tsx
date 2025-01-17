@@ -8,7 +8,7 @@ export default function Home() {
           <Image className="rounded-md left-0" src="/cybersources/logo.svg" fill={true} alt="logo"/>
         </div>
         <div className="">
-          <h2 className="text-xl sm:text-3xl lg:text-7xl font-black text-green-500" ><span className="text-white">./</span>cybersources</h2>
+          <h2 className="text-xl sm:text-3xl lg:text-5xl font-black text-green-500" ><span className="text-white">./</span>cybersources</h2>
           {/* <hr className="w-full h-2 my-8 border-0 bg-gradient-to-l from-banner-start to-banner-end motion-safe:animate-bg-loop bg-[length:120%_120%] "/> */}
         </div>
       </div>
