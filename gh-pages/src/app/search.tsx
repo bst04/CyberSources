@@ -23,10 +23,10 @@ export default function Search() {
         </div>
 <ul className="lg:w-[70%] xl:w-[50%] flex flex-col gap-8">
          {/* TODO: showing x amount filter */}
-        {filtered.slice(0, 100).map(([item,_ ]) => (
+        {filtered.slice(0, 100).map(([item,hg ]) => (
           <li className='flex flex-col bg-black/60 w-full p-8 min-h-40 rounded-lg border  border-white' key={item.name}>
             {/*<Highlight text={item.name} ranges={highlightRanges} />*/}
-               <h4 className='text-xl font-black'> {item.name}</h4>
+               <h4 className='text-xl font-black'><Highlight text={item.name} ranges={hg}/></h4>
                <p className=''>{item.description}</p>
                <div className='flex flex-row gap-4 mt-10 '>
                {item.tags.map((t) => 
