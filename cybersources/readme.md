@@ -1240,7 +1240,7 @@ If you find this repository helpful, please consider giving it a star! Your supp
 * If you have some tool, resource or course that you want to share, [contact me](https://github.com/brunoooost) or create an pull request.
 
 ![](https://contrib.rocks/image?repo=brunoooost/cybersources)
-
+#
 ## [↑](./#-content) 🪪 Credits
 
 * [awesome-osint](https://github.com/jivoi/awesome-osint)
