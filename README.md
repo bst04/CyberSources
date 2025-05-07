@@ -489,7 +489,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [KnewKarma](https://knewkarma.com)                     | Reddit analytics and visualization tool.                   |
 | [RedditPostSleuth](https://www.repostsleuth.com/)      | Tool for investigating and analyzing Reddit posts.         |
 
-#### 1.6.8 [↑](#-content) Telegram
+#### 1.6.9 [↑](#-content) Telegram
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
