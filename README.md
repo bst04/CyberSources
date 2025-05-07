@@ -56,6 +56,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [Twitch](#166--twitch)
     * [Tinder](#167--tinder)
     * [Reddit](#168--reddit)
+    * [Telegram](#169--telegram)
 
 **Pentesting**
 * [Post Explotation](#21--post-explotation)
@@ -488,8 +489,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [KnewKarma](https://knewkarma.com)                     | Reddit analytics and visualization tool.                   |
 | [RedditPostSleuth](https://www.repostsleuth.com/)      | Tool for investigating and analyzing Reddit posts.         |
 
+#### 1.6.8 [↑](#-content) Telegram
 
-
+| Tools                                              | Description                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| [telegram-checker](https://github.com/unnohwn/telegram-checker) | A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction. |
 
 ## 2. [↑](#-content) Pentesting
 
