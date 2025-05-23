@@ -909,6 +909,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Audio Steganalysis CNN](https://github.com/bolin-chen/audio-steganalysis-cnn)                                                                                | A project for steganalysis of audio files using convolutional neural networks (CNN).                                                                        |
 | [DeepSteg](https://github.com/deepsteg/deepsteg)                                                                                                              | A steganalysis tool for detecting hidden data in images using deep learning techniques.                                                                     |
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
+| [StegaToolkit](https://github.com/beafn28/StegaToolkit) | Stenography tool with web interface.|
 
 
 ## 4. [↑](#-content) Forensic & Malware Analysis
