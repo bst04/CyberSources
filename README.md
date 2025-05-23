@@ -45,18 +45,19 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 * [OSINT](#11--osint)
 * [Username Search](#12--username-search)
 * [Email Search](#13--email-search)
-* [GEOINT](#14--geoint)
-* [Photo/Images](#15--photo--images)
-* [Social Networks](#16--social-networks)
-    * [Instagram](#161--instagram)
-    * [LinkedIn](#162--linkedin)
-    * [TikTok](#163--tiktok)
-    * [OnlyFans](#164--onlyfans)
-    * [Discord](#165--discord)
-    * [Twitch](#166--twitch)
-    * [Tinder](#167--tinder)
-    * [Reddit](#168--reddit)
-    * [Telegram](#169--telegram)
+* [Phone Number Search](#14--phone-number-search)
+* [GEOINT](#15--geoint)
+* [Photo/Images](#16--photo--images)
+* [Social Networks](#17--social-networks)
+    * [Instagram](#171--instagram)
+    * [LinkedIn](#172--linkedin)
+    * [TikTok](#173--tiktok)
+    * [OnlyFans](#174--onlyfans)
+    * [Discord](#175--discord)
+    * [Twitch](#176--twitch)
+    * [Tinder](#177--tinder)
+    * [Reddit](#178--reddit)
+    * [Telegram](#179--telegram)
 
 **Pentesting**
 * [Post Explotation](#21--post-explotation)
@@ -249,7 +250,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SingalHire](https://www.signalhire.com/)|Find Valid Emails and Phone Numbers|
 
 
-#### 1.4 [↑](#-content) GEOINT
+#### 1.4 [↑](#-content) Phone Number Search
+
+
+| Tool                                | Description                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------|
+|[phoneinfoga](https://github.com/sundowndev/phoneinfoga)|Information gathering framework for phone numbers|
+
+
+#### 1.5 [↑](#-content) GEOINT
 
 | Tools                                                                                                                       | Description                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -300,7 +309,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 
 
-#### 1.5 [↑](#-content) Photo / Images
+#### 1.6 [↑](#-content) Photo / Images
 
 | Tools                                                                          | Description                                                                                                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -309,9 +318,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
 
 
-#### 1.6 [↑](#-content) Social Networks
+#### 1.7 [↑](#-content) Social Networks
 
-#### 1.6.1 [↑](#-content) Instagram
+#### 1.7.1 [↑](#-content) Instagram
 
 | Tools                                                                                                          | Description                                                                    |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -364,7 +373,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
 | [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
 
-#### 1.6.2 [↑](#-content) Linkedin
+#### 1.7.2 [↑](#-content) Linkedin
 
 | Tools                                                                                               | Description                                |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -387,7 +396,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
 
-#### 1.6.3 [↑](#-content) TikTok
+#### 1.7.3 [↑](#-content) TikTok
 
 | Tools                                                                                                                             | Description                                                | --- |
 | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --- |
@@ -414,7 +423,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
 | [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
 
-#### 1.6.4 [↑](#-content) OnlyFans
+#### 1.7.4 [↑](#-content) OnlyFans
 
 | Tools                                                              | Description                                 |
 | ------------------------------------------------------------------ | ------------------------------------------- |
@@ -425,7 +434,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
 
-#### 1.6.5 [↑](#-content) Discord
+#### 1.7.5 [↑](#-content) Discord
 
 | Tools                                                               | Description                                                                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -440,7 +449,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
 | [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
 
-#### 1.6.6 [↑](#-content) Twitch
+#### 1.7.6 [↑](#-content) Twitch
 
 | Tools                                                                           | Description                                                            |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -456,7 +465,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
 
-#### 1.6.7 [↑](#-content) Tinder
+#### 1.7.7 [↑](#-content) Tinder
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -481,7 +490,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
 
 
-#### 1.6.8 [↑](#-content) Reddit
+#### 1.7.8 [↑](#-content) Reddit
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
@@ -490,7 +499,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [KnewKarma](https://knewkarma.com)                     | Reddit analytics and visualization tool.                   |
 | [RedditPostSleuth](https://www.repostsleuth.com/)      | Tool for investigating and analyzing Reddit posts.         |
 
-#### 1.6.9 [↑](#-content) Telegram
+#### 1.7.9 [↑](#-content) Telegram
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
