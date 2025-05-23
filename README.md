@@ -616,6 +616,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Nope Proxy](https://github.com/summitt/Nope-Proxy) | Nope is a non-http (TCP and UDP) proxy extension for burp suite. Nope has a built in DNS, port monitor, scripting engine, and proxies for row TCP and UDP sockets. |
 |[Pentest Collaboration Framework](https://gitlab.com/invuls/pentest-projects/pcf)|Opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing!|
 |[NetHawk](https://github.com/sergio11/nethawk_analyzer)|An AI-powered tool for ethical hacking and network vulnerability assessment, simplifying deep scans and security audits for professionals.|
+|[Windows Network CPR](https://github.com/ivanbg2004/Windows-Network-CPR)|A desperate cry for help disguised as a script. Built for Windows users still pretending their OS knows how networking works. This tool slaps your connection until it behaves — because sometimes, brute force is the only language Microsoft understands. If your IP starts with 169.254, just run this and pray.|
 
 ### [↑](#-content) 2.7 RFID
 
