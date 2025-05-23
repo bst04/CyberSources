@@ -167,6 +167,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Deep Dork Web](https://guilherme-moraiss.github.io/Deep-Dork-Web/)|Automate Google Dorking for OSINT investigations. Search indexed sensitive data efficiently with pre-built queries.|
 |[Digital Digging OSINT](https://digitaldigging.org/osint/)|Collection of OSINT resources are organized by country and are useful for researchers, fact-checkers, and digital profilers.|
 |[toposint](https://start.me/p/vjqXe1/toposint-com)|Open Source Intelligence collections and other interests.|
+|[The OSINT Rack](https://www.mariosantella.com/the-osint-rack/)|A curated and growing list of open-source intelligence tools; explore resources across recon, social media, metadata, geolocation, and more.|
 
 
 #### 1.2 [↑](#-content) Username Search
