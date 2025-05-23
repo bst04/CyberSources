@@ -766,6 +766,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Nightmare](https://guyinatuxedo.github.io/index.html)|Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. I call it that because it's a lot of people's nightmare to get hit by weaponized 0 days, which these skills directly translate into doing that type of work.|
 |[pwntools](https://github.com/Gallopsled/pwntools)|CTF framework and exploit development library|
 |[gef](https://github.com/hugsy/gef)|GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux|
+|[Angr](https://angr.io/)| angr is an open-source binary analysis platform for Python. It combines both static and dynamic symbolic ("concolic") analysis, providing tools to solve a variety of tasks.|
 
 
 ### [↑](#-content) 2.13 CCTV
