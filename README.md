@@ -600,7 +600,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Firesheep](https://codebutler.github.io/firesheep/)                  | HTTP session hijacking attack tool.                                                              |
 | [Scapy](https://github.com/secdev/awesome-scapy)                      | Python tool for creating and manipulating network packets.                                       |
 | [Amass](https://github.com/OWASP/Amass)                               | Subdomain enumeration tool with scraping, brute forcing, crawling, and reverse DNS capabilities. |
-| [sniffglue](https://github.com/kpcyrd/sniffglue)                      | Multithreaded secure packet sniffer.                                                             |
+| [sniffglue](https://github.com/kpcyrd/sniffglue)                      | Multithreaded secure packet sniffer.  
+| [Vulert](Vulert.com)                                                  | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 | [Netz](https://github.com/spectralops/netz)                           | Tool for discovering internet-wide misconfigurations using zgrab2.                               |
 | [RustScan](https://github.com/rustscan/rustscan)                      | Fast port scanner using Rust, designed for quick scanning and integration with Nmap.             |
 | [PETEP](https://github.com/Warxim/petep)                              | Extensible TCP/UDP proxy for traffic analysis and modification with SSL/TLS support.             |
