@@ -248,6 +248,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Voilanobert](https://www.voilanorbert.com/)|I can find anyone's email address|
 | [Hunter](https://hunter.io/)|Hunter is your all-in-one email outreach platform.|
 | [SingalHire](https://www.signalhire.com/)|Find Valid Emails and Phone Numbers|
+| [LeakRadar](https://leakradar.io/)|Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API|
 
 
 #### 1.4 [↑](#-content) Phone Number Search
@@ -579,7 +580,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[HExHTTP](https://github.com/c0dejump/HExHTTP)|Tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors.|
 |[403JUMP](https://github.com/trap-bytes/403jump)|Tool designed for penetration testers and bug bounty hunters to audit the security of web applications|
 |[0BL1V10N CVE-2024-25600 (Bricks Builder Plugin Exploit)](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)|Exploit for CVE-2024-25600 in Bricks Builder (WordPress). Developed for TryHackMe’s Bricks Heist room. Enhanced from Tornad0007. From OD&H|
-
+| [SubdomainRadar](https://subdomainradar.io/)                               | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access|
 
 ### 2.6 [↑](#-content) Network
 
