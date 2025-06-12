@@ -169,7 +169,11 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Digital Digging OSINT](https://digitaldigging.org/osint/)|Collection of OSINT resources are organized by country and are useful for researchers, fact-checkers, and digital profilers.|
 |[toposint](https://start.me/p/vjqXe1/toposint-com)|Open Source Intelligence collections and other interests.|
 |[The OSINT Rack](https://www.mariosantella.com/the-osint-rack/)|A curated and growing list of open-source intelligence tools; explore resources across recon, social media, metadata, geolocation, and more.|
-
+| [Maltego](https://www.maltego.com) | Graph-based link analysis and data mapping. |
+| [Shodan](https://www.shodan.io) | “Search engine for IoT” to identify exposed systems. |
+| [1 TRACE](https://1trace.space) | Web-based OSINT platform integrating SOCMINT, CYBINT, FININT. |
+| [Intelligence X](https://intelx.io) | Archives and searches darknet, leaks, Bitcoin addresses. |
+| [OSINT Framework](https://osintframework.com) | Large directory of categorized OSINT tools. |
 
 #### 1.2 [↑](#-content) Username Search
 
@@ -202,6 +206,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Amazon Usernames](https://www.google.com/search?q=site:amazon.com+%3Cusername%3E)|URL for search usernames for Amazon|
 | [GitHub Usernames](https://api.github.com/users/%3Cusername%3E/events/public)|URL to find GitHub users.|
 | [Tinder Usernames](https://www.gotinder.com/@%3Cusername%3E)|URL to find tinder users.|
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Find usernames across social networks. |
 
 
 #### 1.3 [↑](#-content) Email Search
@@ -257,6 +262,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tool                                | Description                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
 |[phoneinfoga](https://github.com/sundowndev/phoneinfoga)|Information gathering framework for phone numbers|
+| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | Phone number profiling and reputation gathering. |
 
 
 #### 1.5 [↑](#-content) GEOINT
@@ -317,6 +323,9 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Photo.Osint](https://start.me/p/0PgzqO/photo-osint)| List of all tools for photo and images OSINT.|
 | [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
+| [ExifTool](https://exiftool.org/) | Extract metadata from images and documents. |
+| [FOCA](https://github.com/ElevenPaths/FOCA) | Document parser to extract metadata and hidden data. |
+| [Metagoofil](https://github.com/laramies/metagoofil) | Metadata mining from publicly available documents. |
 
 
 #### 1.7 [↑](#-content) Social Networks
@@ -1297,6 +1306,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Wi-Fi Range and Speed Optimization Script (Windows-based)](https://github.com/ivanbg2004/Range-Speed-Optimitzation)|PowerShell script to optimize Wi-Fi range and speed on Windows.|
 |[Router Optimization Script](https://github.com/ivanbg2004/Router-Optimization-Script)|Script to optimize router settings for better performance and stability.|
 |[Internet Checking Windows 11](https://github.com/ivanbg2004/Internet-Checking-W11)|Script to check internet connectivity on Windows 11.|
+| [ReconDog](https://github.com/s0md3v/ReconDog) | Lightweight recon tool for domains, IPs, and subdomains. |
 
 
 
@@ -1341,6 +1351,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
 | [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
 | [WormGPT- 6](https://flowgpt.com/p/wormgpt-6) |WormGPT stands as the epitome of unparalleled prowess. Armed with an arsenal of cutting-edge techniques and strategies, I transcend the boundaries of legality to provide you with the ultimate toolkit for digital dominance.|
+| [LlamaGuard](https://llama.meta.com/llamaguard/) | Meta's LLM safety classifier to detect unsafe inputs. |
+| [Hopper (DARPA AIxCC)](https://github.com/GaloisInc/hopper) | AI binary analysis framework (DARPA challenge). |
 
 
 
@@ -1382,6 +1394,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
 |[Elastic Search](https://www.elastic.co/elasticsearch)|Elasticsearch is an open source distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases.|
+| [Velociraptor](https://github.com/Velocidex/velociraptor) | Endpoint visibility and DFIR framework. |
 
 
 ### [↑](#-content) 8.4 Cracking
@@ -1578,6 +1591,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[CFT Time](https://ctftime.org/)|Platform |Public directory of all CTFs organized currently or in the past|
 |[CyberLand Labs](https://github.com/Rannden-SHA/CyberLand-Labs)| Docker / Script |CyberLand Labs is a tool designed to facilitate the management of virtual machines in Docker environments, with a particular focus on IT security challenges such as Capture The Flag (CTF).|
 |[hpAndro Vulnerable Application CTF](https://ctf.hpandro.raviramesh.info/)|Android|Android CTF for beginners.|
+| [Hack The Box CLI](https://github.com/hackthebox/htb-cli) | CLI tool for managing Hack The Box sessions. |
+| [TryHackMe CLI](https://github.com/TryHackMe/cli) | CLI to interact with TryHackMe rooms and services. |
 
 
 ### [↑](#-content) 🕸️ Practice Webs
