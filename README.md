@@ -157,7 +157,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [IntelTechniques](https://inteltechniques.com/tools/Search.html)                                                                                        | Search engine tailored for OSINT investigations across multiple data types.                     |
 | [Cybdetective](https://cybdetective.com/osintmap)                                                                                                      | Visual global directory of OSINT tools.                                                         |
 | [Face Comparison](https://facecomparison.toolpie.com)                                                                                                  | Compare facial images to find matches.                                                          |
-| [OSINT Framework](https://osintframework.com)                                                                                                          | Extensive repository of OSINT tools and techniques.                                             |
 | [FaceCheckID](https://facecheck.id)                                                                                                                    | Reverse image lookup specialized in facial recognition.                                         |
 | [Social Catfish](https://socialcatfish.com)                                                                                                            | Find people using names, images, or other details.                                              |
 | [Google Lens](https://lens.google)                                                                                                                     | AI-powered tool to analyze and extract information from images.                                 |
@@ -169,6 +168,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Digital Digging OSINT](https://digitaldigging.org/osint/)|Collection of OSINT resources are organized by country and are useful for researchers, fact-checkers, and digital profilers.|
 |[toposint](https://start.me/p/vjqXe1/toposint-com)|Open Source Intelligence collections and other interests.|
 |[The OSINT Rack](https://www.mariosantella.com/the-osint-rack/)|A curated and growing list of open-source intelligence tools; explore resources across recon, social media, metadata, geolocation, and more.|
+| [Maltego](https://www.maltego.com) | Graph-based link analysis and data mapping. |
+| [Shodan](https://www.shodan.io) | “Search engine for IoT” to identify exposed systems. |
+| [1 TRACE](https://1trace.space) | Web-based OSINT platform integrating SOCMINT, CYBINT, FININT. |
+| [Intelligence X](https://intelx.io) | Archives and searches darknet, leaks, Bitcoin addresses. |
+| [SpiderFoot](https://www.spiderfoot.net/) | Automated OSINT tool that scans a target across 100+ data sources. |
+| [Maltego (Community Edition)](https://www.maltego.com/) | Visual link analysis tool for OSINT and forensics with extensible transforms. |
+| [theHarvester](https://github.com/laramies/theHarvester) | Email, subdomain, host, and employee names gathering tool from public sources. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Modular OSINT framework designed for automated reconnaissance. |
+| [Censys](https://censys.io/) | Search engine and data platform to discover internet assets and vulnerabilities. |
+| [Metagoofil](https://github.com/laramies/metagoofil) | Extract metadata from public documents for information gathering. |
+| [FOCA](https://www.elevenpaths.com/labstools/foca/index.html) | Metadata extraction tool for documents and images for OSINT. |
 
 
 #### 1.2 [↑](#-content) Username Search
@@ -202,6 +212,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Amazon Usernames](https://www.google.com/search?q=site:amazon.com+%3Cusername%3E)|URL for search usernames for Amazon|
 | [GitHub Usernames](https://api.github.com/users/%3Cusername%3E/events/public)|URL to find GitHub users.|
 | [Tinder Usernames](https://www.gotinder.com/@%3Cusername%3E)|URL to find tinder users.|
+| [Sherlock](https://github.com/sherlock-project/sherlock) | Find usernames across social networks. |
+| [Namechk](https://namechk.com/) | Check username availability across dozens of social platforms and domains. |
+| [UserRecon](https://github.com/f004/userrecon) | OSINT tool to check for usernames across 50+ platforms with detailed reports. |
+| [CheckUsernames](https://checkusernames.com/) | Search for username availability on 100+ social networks and websites. |
+| [Namecheckup](https://www.namecheckup.com/) | Similar to Namechk, searches username and domain availability globally. |
+| [WhatsMyName](https://github.com/WebBreacher/WhatsMyName) | CLI tool to find usernames across many platforms, useful for automation. |
+| [UserScan](https://usersearch.org/) | Online username search tool that checks social media platforms and leaks. |
+| [KnowEm](https://knowem.com/) | Commercial service that checks username and brand name availability. |
+
 
 
 #### 1.3 [↑](#-content) Email Search
@@ -249,6 +268,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hunter](https://hunter.io/)|Hunter is your all-in-one email outreach platform.|
 | [SingalHire](https://www.signalhire.com/)|Find Valid Emails and Phone Numbers|
 | [LeakRadar](https://leakradar.io/)|Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API|
+| [Snov.io](https://snov.io/) | Email finder and verifier with integration capabilities for marketing and sales. |
+| [VoilaNorbert](https://www.voilanorbert.com/) | Email finder for leads with bulk verification feature. |
+| [FindThatLead](https://findthatlead.com/) | Email search and verification tool aimed at sales and marketing professionals. |
+| [Anymail Finder](https://anymailfinder.com/) | Email address finder and verifier based on names and domains. |
+| [Clearbit Connect](https://connect.clearbit.com/) | Gmail/Outlook plugin for discovering emails and company data inside inbox. |
+
 
 
 #### 1.4 [↑](#-content) Phone Number Search
@@ -257,6 +282,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tool                                | Description                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
 |[phoneinfoga](https://github.com/sundowndev/phoneinfoga)|Information gathering framework for phone numbers|
+| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) | Phone number profiling and reputation gathering. |
+| [Truecaller](https://www.truecaller.com/) | Caller ID and spam blocking app with a large global phone number directory. |
+| [NumLookup](https://www.numlookup.com/) | Free phone number lookup tool that provides owner details and carrier info. |
+| [Sync.Me](https://sync.me/) | Caller ID app that also provides social media details linked to phone numbers. |
+| [Spy Dialer](https://www.spydialer.com/) | Phone number, people, address, and email lookup based on public data. |
+| [Whitepages Premium](https://www.whitepages.com/) | Enhanced lookup for phone numbers, including background checks. |
+| [WhoCallsMe](https://whocallsme.com/) | User-submitted reports on phone numbers for spam/scam identification. |
+| [OpenCNAM](https://www.opencnam.com/) | API service for CNAM (Caller ID) lookups, useful for integrations. |
+
 
 
 #### 1.5 [↑](#-content) GEOINT
@@ -307,6 +341,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SunCalc](https://suncalc.net/)                                                                                             | A solar position calculator for determining sunrise, sunset, and shadow lengths on a map. |
 | [Map Developers](https://www.mapdevelopers.com)                                                                             | Provides custom Google Map API solutions and tools for advanced mapping needs.            |
 | [GeoSpy AI](https://geospy.ai/)| Convert pixels into actionable location intelligence using  AI.|
+| [OpenStreetMap (OSM)](https://www.openstreetmap.org/) | Collaborative project to create a free editable map of the world with rich geospatial data. |
+| [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro) | Advanced geospatial visualization with historical imagery and 3D terrain. |
+| [QGIS](https://qgis.org/) | Open-source Geographic Information System for spatial data analysis and visualization. |
+| [Terraserver](https://www.terraserver.com/) | Satellite and aerial imagery search with historical views. |
+| [Here WeGo](https://wego.here.com/) | Mapping platform with routing, geocoding, and geospatial APIs. |
+| [Sentinel Hub](https://www.sentinel-hub.com/) | Satellite data service with easy access to Sentinel, Landsat, and MODIS imagery. |
+
 
 
 
@@ -317,6 +358,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Photo.Osint](https://start.me/p/0PgzqO/photo-osint)| List of all tools for photo and images OSINT.|
 | [Foto Forensics](https://fotoforensics.com/)                                                                                | All the metadata of an image.                                                             |
 | [Exiftool](https://github.com/exiftool/exiftool)     | A terminal based tool for extracting images meta data. |
+| [ExifTool](https://exiftool.org/) | Extract metadata from images and documents. |
+| [FOCA](https://github.com/ElevenPaths/FOCA) | Document parser to extract metadata and hidden data. |
+| [Metagoofil](https://github.com/laramies/metagoofil) | Metadata mining from publicly available documents. |
+| [Google Reverse Image Search](https://images.google.com/) | Upload an image to find where it appears online or find visually similar images. |
+| [TinEye](https://tineye.com/) | Reverse image search engine specialized in finding image origins and usage. |
+| [FotoForensics](https://fotoforensics.com/) | Tool for analyzing images for signs of manipulation or tampering using error level analysis. |
+| [ImageRaider](https://www.imageraider.com/) | Bulk reverse image search tool useful for tracking image misuse or plagiarism. |
+| [Izitru](https://www.izitru.com/) | Image authentication platform that verifies original photos from smartphones and cameras. |
+| [Jeffrey’s Image Metadata Viewer](https://exif.regex.info/exif.cgi) | Extracts EXIF, IPTC, and other metadata from images. |
+| [RevEye](https://www.reveye.org/) | Browser extension that does reverse image search across multiple engines simultaneously. |
+
 
 
 #### 1.7 [↑](#-content) Social Networks
@@ -373,6 +425,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Webstagram](https://webstagram.org)                                                                           | Instagram web viewer and search tool.                                          |
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
 | [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
+| [Inflact (formerly Ingramer)](https://inflact.com/) | Instagram marketing toolkit with scheduler, hashtag generator, and analytics. |
+| [Phlanx](https://phlanx.com/engagement-calculator) | Influencer engagement calculator and Instagram analytics tool. |
+| [Combin](https://www.combin.com/) | Instagram growth and management software focusing on audience targeting and analytics. |
+| [Picuki](https://www.picuki.com/) | Instagram online viewer and editor, useful for viewing profiles anonymously and exploring hashtags. |
+| [IGBlade](https://igblade.com/) | Instagram analytics and influencer tracking platform. |
+| [SocialRank](https://socialrank.com/) | Helps analyze Instagram followers by engagement, demographics, and influence. |
+| [Snoopreport](https://snoopreport.com/) | Instagram activity tracker that monitors user likes, follows, and engagement patterns. |
+
+
 
 #### 1.7.2 [↑](#-content) Linkedin
 
@@ -396,6 +457,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Recruitin.net](https://recruitin.net/)                                                             | Tool for recruiting on LinkedIn.           |
 | [Recruitment Geek](https://recruitmentgeek.com/tools/linkedin)                                      | LinkedIn search tool for recruiters.       |
 | [ScrapedIn](https://github.com/dchrastil/ScrapedIn)                                                 | Tool for scraping LinkedIn profiles.       |
+| [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) | Official advanced sales tool for prospecting and lead generation on LinkedIn. |
+| [Dux-Soup](https://www.dux-soup.com/) | LinkedIn automation tool for lead generation, profile visiting, and messaging. |
+| [Zopto](https://zopto.com/) | Cloud-based LinkedIn automation for targeted outreach and lead generation. |
+| [LinkedHelper](https://linkedhelper.com/) | LinkedIn automation suite for bulk messaging, connection requests, and profile visits. |
+| [Octopus CRM](https://octopuscrm.io/) | LinkedIn marketing automation with campaigns, auto messaging, and profile views. |
+| [Phantombuster](https://phantombuster.com/) | Automation platform with LinkedIn API integrations for scraping and outreach workflows. |
+| [Aeroleads](https://aeroleads.com/) | Email and phone number finder that integrates with LinkedIn for prospect data. |
+
+
 
 #### 1.7.3 [↑](#-content) TikTok
 
@@ -423,6 +493,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tokvid](https://tokvid.com)                                                                                                      | Tool for downloading TikTok videos.                        | --- |
 | [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
 | [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
+| [Pentos](https://pentos.co/) | TikTok account and hashtag analytics with trend tracking and competitor analysis. | --- |
+| [Exolyt](https://exolyt.com/) | TikTok analytics platform for profile metrics, video stats, and hashtag insights. | --- |
+| [TrendTok Analytics](https://trendtok.app/) | TikTok trend discovery and tracking app to help creators find viral content ideas. | --- |
+| [Tokboard](https://tokboard.com/) | Real-time TikTok trending hashtags and video tracking dashboard. | --- |
+| [Analisa.io](https://analisa.io/) | AI-powered TikTok and Instagram analytics for audience and engagement insights. | --- |
+| [Pentos Creator Analytics](https://pentos.co/creator-analytics) | In-depth TikTok creator data and market insights for brands and influencers. | --- |
+| [SnapTik](https://snaptik.app/) | Tool for downloading TikTok videos without watermark for analysis. | --- |
+| [SSSTikTok](https://ssstik.io/) | Alternative TikTok video downloader for watermark-free analysis. | --- |
+
 
 #### 1.7.4 [↑](#-content) OnlyFans
 
@@ -434,6 +513,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool.                       |
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
+| [OnlyFinder](https://onlyfinder.com/) | Search engine to discover OnlyFans creators by username, category, or popularity. |
+| [FansMetrics](https://fansmetrics.com/) | Analytics platform tracking OnlyFans creators’ earnings, subscribers, and growth. |
+| [OnlyTracker](https://onlytracker.net/) | Growth tracker for OnlyFans creators showing stats like followers, likes, and posts. |
+| [OFNinja](https://ofninja.com/) | Search engine for finding OnlyFans content creators and their profiles. |
+| [OnlySearch](https://onlysearch.com/) | Search tool focused on finding OnlyFans content creators, models, and pages. |
+| [OnlyFans Spy](https://onlyfansspy.net/) | Tool that tracks OnlyFans profiles’ subscriber growth and estimated earnings. |
+
+
 
 #### 1.7.5 [↑](#-content) Discord
 
@@ -449,6 +536,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Discord Me](https://discord.me/)                                   | A site for finding public Discord servers and bots.                                                                 |
 | [DiscordOSINT](https://discordosint.com/)                           | Provides resources for conducting research and OSINT investigations related to Discord accounts, servers, and bots. |
 | [Discord Bots](https://discordbots.org/)                            | A comprehensive directory of top Discord bots, apps, and servers, including popular music and economy bots.         |
+| [DiscordBotList](https://discordbotlist.com/) | Directory of Discord bots for moderation, games, music, and utilities. |
+| [Statbot](https://statbot.net/) | Discord server analytics and insights tool to track member engagement. |
+| [Discord.js](https://discord.js.org/) | Popular JavaScript library for creating custom Discord bots. |
+| [Top.gg](https://top.gg/) | Large Discord bot and server directory with reviews and bot stats. |
+| [Dyno](https://dyno.gg/) | Customizable moderation and utility bot for Discord servers. |
+| [Sesh](https://sesh.fyi/) | Scheduling and calendar bot for Discord, perfect for community events. |
+| [DiscordSRV](https://discordsrv.com/) | Integrates Discord with Minecraft servers for cross-platform chat. |
+
 
 #### 1.7.6 [↑](#-content) Twitch
 
@@ -465,6 +560,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Twitch Database](https://www.twitchdatabase.com/following)                     | Database for tracking Twitch followings.                               |
 | [Twitch Insights](https://twitchinsights.net/)                                  | Tool for analyzing Twitch trends and statistics.                       |
 | [Twitch Followage Tool](https://streamscharts.com/tools/followage)              | Tool for checking how long users have been following a Twitch channel. |
+| [TwitchTracker](https://twitchtracker.com/) | In-depth Twitch analytics for channels, games, and trends. |
+| [SullyGnome](https://sullygnome.com/) | Analytics and statistics for Twitch channels, games, and clips. |
+| [StreamElements](https://streamelements.com/) | Stream management platform with overlays, chatbot, tipping, and analytics. |
+| [Streamlabs](https://streamlabs.com/) | All-in-one streaming software including alerts, overlays, and analytics. |
+| [Nightbot](https://nightbot.tv/) | Customizable chatbot for Twitch to moderate chat and automate commands. |
+| [TwitchTools](https://twitch.tools/) | Collection of utilities like clips downloader, emote search, and viewer analysis. |
+| [Muxy](https://muxy.io/) | Interactive overlays, alerts, and analytics for Twitch streamers. |
+
 
 #### 1.7.7 [↑](#-content) Tinder
 
@@ -489,6 +592,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tastebuds](https://tastebuds.fm)                  | Dating app that matches people based on music taste.           |
 | [Tinder](https://tinder.com)                       | Popular dating app for meeting new people.                     |
 | [zoosk](https://www.zoosk.com)                     | Dating site with a behavioral matchmaking algorithm.           |
+| Tinder++ (Unofficial Mods) | Modified Tinder app versions with additional features (note: unofficial, use with caution). |
+| [TinderBox](https://tinderbox.io/) | Tool for automating Tinder likes and matches (may have limited availability). |
+| Tinder Profile Analyzer | Services or scripts that analyze Tinder profiles for patterns or optimizations (mostly private or custom scripts). |
+| [Tinder API (Unofficial)](https://github.com/fbessez/Tinder) | GitHub repo reverse-engineering Tinder API for automation or data extraction. |
+| [TinderBot](https://github.com/mamcman/TinderBot) | Open-source bot that automates swipes and likes on Tinder profiles. |
+| Tinder Social (Discontinued) | Tools to scrape or analyze Tinder’s now-defunct group feature (archived repos exist). |
+
 
 
 #### 1.7.8 [↑](#-content) Reddit
@@ -499,12 +609,28 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Redective](https://redective.com)                     | OSINT tool for analyzing Reddit user activity.             |
 | [KnewKarma](https://knewkarma.com)                     | Reddit analytics and visualization tool.                   |
 | [RedditPostSleuth](https://www.repostsleuth.com/)      | Tool for investigating and analyzing Reddit posts.         |
+| [Reddit Investigator](https://redditinvestigator.com/) | Investigative tool for analyzing Reddit user activity and comment history. |
+| [Pushshift API](https://pushshift.io/) | API providing access to historical Reddit data, comments, submissions, and metadata. |
+| [Ceddit (Archive)](https://ceddit.com/) | Archived tool to view deleted Reddit comments and posts. (May be offline) |
+| [Reddit Insight](https://redditinsight.com/) | Analytics tool for subreddit and user engagement stats. |
+| [SnoopSnoo](https://snoopsnoo.com/) | Reddit user analytics platform with detailed activity reports. |
+| [Resavr](https://resavr.com/) | Archive of deleted Reddit comments to recover lost content. |
+| [Reddit Enhancement Suite (RES)](https://redditenhancementsuite.com/) | Browser extension enhancing Reddit browsing with filters, shortcuts, and other features. |
+
 
 #### 1.7.9 [↑](#-content) Telegram
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
 | [telegram-checker](https://github.com/unnohwn/telegram-checker) | A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction. |
+| [Telegram CLI (tdlib-based)](https://github.com/vysheng/tg) | Command-line interface and API for interacting with Telegram programmatically. |
+| [Telethon](https://github.com/LonamiWebs/Telethon) | Python library to interact with the Telegram API for automation and scraping. |
+| [GramJS](https://github.com/gram-js/gramjs) | JavaScript/TypeScript Telegram client library for building bots and clients. |
+| [Telegram Bot API](https://core.telegram.org/bots/api) | Official API for creating and managing Telegram bots. |
+| [MTProto Proxy](https://core.telegram.org/mtproto/proxy) | Telegram proxy protocol implementation to bypass censorship and improve privacy. |
+| [TGStat](https://tgstat.com/) | Analytics platform for Telegram channels and groups. |
+| [Combot](https://combot.org/) | Popular moderation and analytics bot for Telegram groups and channels. |
+
 
 ## 2. [↑](#-content) Pentesting
 
@@ -516,6 +642,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Silentrinity](https://github.com/byt3bl33d3r/SILENTTRINITY)  | A post exploitation tool that uses iron python to get past powershell restrictions. |
 | [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | A PowerShell post exploitation framework.                                           |
 | [ebowla](https://github.com/Genetic-Malware/Ebowla)           | Framework for Making Environmental Keyed Payloads.                                  |
+| [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerShell-based post-exploitation framework for Windows. |
+| [Empire](https://github.com/EmpireProject/Empire) | Post-exploitation framework using PowerShell and Python agents. |
+| [Covenant](https://github.com/cobbr/Covenant) | Collaborative .NET post-exploitation framework designed for red teams. |
+| [Metasploit Meterpreter](https://www.metasploit.com/) | Advanced in-memory payload providing post-exploitation features. |
+| [Koadic (COM Command & Control)](https://github.com/zerosum0x0/koadic) | Windows post-exploitation tool using Windows Script Host. |
+| [PoshC2](https://github.com/nettitude/PoshC2) | PowerShell and Python post-exploitation framework with C2 server. |
+| [SharpSploit](https://github.com/cobbr/SharpSploit) | .NET offensive security framework for post-exploitation and red teaming. |
+
 
 ### 2.2 [↑](#-content) Deobfuscators
 
@@ -523,6 +657,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [JS Nice](http://jsnice.org/)             | Web service guessing JS variables names and types based on the model derived from open source. |
 | [de4dot](https://github.com/0xd4d/de4dot) | .NET deobfuscator and unpacker.                                                                |
+| [UnPHP](https://www.unphp.net/) | Online PHP deobfuscator and decoder for obfuscated PHP code. |
+| [JSDetox](https://github.com/dstockwell/jsdetox) | JavaScript malware analysis and deobfuscation framework. |
+| [Androguard](https://github.com/androguard/androguard) | Reverse engineering and deobfuscation tool for Android APKs. |
+| [De4js](https://lelinhtinh.github.io/de4js/) | Online JavaScript deobfuscator supporting many obfuscation methods. |
+| [ConfuserEx Unpacker](https://github.com/djhohnstein/ConfuserEx-Unpacker) | Tools/scripts to unpack .NET assemblies obfuscated by ConfuserEx. |
+| [Malzilla](https://www.malzilla.sourceforge.net/) | Tool for analyzing and deobfuscating malicious scripts. |
+| [ViperMonkey](https://github.com/decalage2/ViperMonkey) | VBA macro analysis and deobfuscation tool for MS Office documents. |
+
 
 ### 2.3 [↑](#-content) Decompilers
 
@@ -542,6 +684,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [BinaryNinja](https://binary.ninja/) | Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers. |
 | [apktool](https://apktool.org/)|A tool for reverse engineering Android apk files|
 |[Procyon](https://github.com/ststeiger/procyon)|Procyon java decompiler - Procyon is a binary star system in Canis Minor|
+| [Ghidra](https://ghidra-sre.org/) | Free and open-source reverse engineering framework with powerful decompiler. |
+| [RetDec](https://retdec.com/) | Open-source machine-code decompiler supporting many architectures. |
+| [Jadx](https://github.com/skylot/jadx) | Dex to Java decompiler for Android APKs. |
+| [CFR (Class File Reader)](http://www.benf.org/other/cfr/) | Java decompiler focusing on correctness, supporting Java 8+. |
+| [ILSpy](https://github.com/icsharpcode/ILSpy) | Open-source .NET assembly browser and decompiler. |
+| [dotPeek](https://www.jetbrains.com/decompiler/) | Free .NET decompiler from JetBrains. |
+| [Snowman](https://github.com/yegord/snowman) | Native code to C/C++ decompiler. |
+
 
 ### 2.4 [↑](#-content) Disassembler and debuggers
 
@@ -555,6 +705,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [x64dbg](https://github.com/x64dbg/x64dbg)            | Open-source debugger for x64 and x32 applications on Windows.                                   |
 | [ScratchABit](https://github.com/pfalcon/ScratchABit) | Customizable and hackable disassembler with support for IDAPython-compatible plugins.           |
 | [Ghidra](https://ghidra-sre.org/)                     | Comprehensive reverse engineering suite developed by the NSA.                                   |
+| [Radare2](https://rada.re/n/) | Open-source reverse engineering framework with powerful disassembler and debugger. |
+| [x64dbg](https://x64dbg.com/) | Open-source Windows debugger for x64 and x32 binaries with a user-friendly GUI. |
+| [Binary Ninja](https://binary.ninja/) | Commercial reverse engineering platform with disassembler, decompiler, and debugger. |
+| [Immunity Debugger](https://www.immunityinc.com/products/debugger/) | Windows debugger with scripting capabilities tailored for exploit development. |
+| [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/) | Microsoft’s Windows debugger for kernel-mode and user-mode debugging. |
+| [Hopper Disassembler](https://www.hopperapp.com/) | Disassembler and debugger for macOS and Linux. |
+| [EDB Debugger (Evan’s Debugger)](https://github.com/eteran/edb-debugger) | Linux x86/x86_64 debugger with a GUI, similar to OllyDbg for Windows. |
 
 ### 2.5 [↑](#-content) Web
 
@@ -581,6 +738,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[403JUMP](https://github.com/trap-bytes/403jump)|Tool designed for penetration testers and bug bounty hunters to audit the security of web applications|
 |[0BL1V10N CVE-2024-25600 (Bricks Builder Plugin Exploit)](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)|Exploit for CVE-2024-25600 in Bricks Builder (WordPress). Developed for TryHackMe’s Bricks Heist room. Enhanced from Tornad0007. From OD&H|
 | [SubdomainRadar](https://subdomainradar.io/)                               | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access|
+| [Wfuzz](https://github.com/xmendez/wfuzz) | Web application brute forcer for testing for vulnerabilities like SQLi, XSS, LFI, etc. |
+| [Nikto](https://cirt.net/Nikto2) | Open-source web server scanner for detecting outdated software, misconfigurations, and vulnerabilities. |
+| [SQLmap](https://sqlmap.org/) | Automated SQL injection and database takeover tool. |
+| [XSStrike](https://github.com/s0md3v/XSStrike) | Advanced XSS detection suite with fuzzing and mutation-based payload generation. |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r) | Fast subdomain enumeration tool for gathering targets in web pentesting. |
+| [Commix](https://commixproject.com/) | Automated command injection and exploitation tool. |
+| [Dirb](https://github.com/v0re/dirb) | Web content scanner for finding hidden files and directories on web servers. |
+| [Gobuster](https://github.com/OJ/gobuster) | Directory/file and DNS busting tool written in Go, useful for discovering hidden web resources. |
 
 ### 2.6 [↑](#-content) Network
 
@@ -628,6 +793,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Pentest Collaboration Framework](https://gitlab.com/invuls/pentest-projects/pcf)|Opensource, cross-platform and portable toolkit for automating routine processes when carrying out various works for testing!|
 |[NetHawk](https://github.com/sergio11/nethawk_analyzer)|An AI-powered tool for ethical hacking and network vulnerability assessment, simplifying deep scans and security audits for professionals.|
 |[Windows Network CPR](https://github.com/ivanbg2004/Windows-Network-CPR)|A desperate cry for help disguised as a script. Built for Windows users still pretending their OS knows how networking works. This tool slaps your connection until it behaves — because sometimes, brute force is the only language Microsoft understands. If your IP starts with 169.254, just run this and pray.|
+| [Bettercap](https://www.bettercap.org/) | Powerful, modular, and portable framework for network attacks and monitoring. |
+| [Nmap Scripting Engine (NSE)](https://nmap.org/book/nse.html) | Extends Nmap with custom scripts for detailed network reconnaissance and exploitation. |
+| [Ettercap](https://www.ettercap-project.org/) | Comprehensive suite for man-in-the-middle attacks on LAN. |
+| [Responder](https://github.com/SpiderLabs/Responder) | LLMNR, NBT-NS, and MDNS poisoner for network credential harvesting. |
+| [MITMf (Man-In-The-Middle Framework)](https://github.com/byt3bl33d3r/MITMf) | Framework for man-in-the-middle attacks with various plugins. |
+| [Scapy](https://scapy.net/) | Python-based interactive packet manipulation tool and library. |
+| [Netcat (nc)](https://nc110.sourceforge.io/) | Swiss-army knife for TCP/IP networking, useful for debugging and exploration. |
+
 
 ### [↑](#-content) 2.7 RFID
 
@@ -648,6 +821,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PicoPass](https://lab.flipper.net/apps/picopass)|App to communicate with NFC tags using the PicoPass(iClass) format. |
 | [Mifare Fuzzer](https://lab.flipper.net/apps/mifare_fuzzer) |App emulates Mifare Classic cards with various UIDs to check how reader reacts on them. |
 | [MFKey](https://lab.flipper.net/apps/mfkey) |MIFARE Classic key recovery tool. |
+| [Proxmark3](https://github.com/Proxmark/proxmark3) | Powerful open-source RFID/NFC research tool capable of reading, writing, and emulating multiple RFID protocols. |
+| [ChameleonMini](https://github.com/emsec/ChameleonMini) | Portable and programmable RFID emulator designed for cloning and analyzing RFID tags. |
+| [LibNFC](https://github.com/nfc-tools/libnfc) | Open-source NFC library for interacting with various NFC devices. |
+| [RFIDiot](https://github.com/AdamLaurie/RFIDiot) | Python-based RFID toolkit for analyzing and cloning RFID tags. |
+| [URFIDSPOOF](https://github.com/TeamRocketGirl/URFIDSPOOF) | Tool for spoofing RFID UHF tags. |
+| [RFIDler](https://github.com/RFIDler/RFIDler) | Open-source, low-cost RFID reader/writer for multiple protocols. |
+
+
 
 
 ### [↑](#-content) 2.8 WiFi 
@@ -668,6 +849,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | A tool for phishing attacks targeting WiFi networks and capturing credentials.      |
 | [Ghost Phisher](https://github.com/savio-code/ghost-phisher)  | A phishing tool that creates fake access points and social engineering attacks.      |
 | [Xeno](https://github.com/ia-usgs/Xeno)|Xeno is a wifi pentesting tool designed to show you vulnerabilities in your network.|
+| [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) | Multi-use bash script for WiFi auditing, including handshake capture and evil twin attacks. |
+| [Wifite2](https://github.com/derv82/wifite2) | Automated wireless auditor designed to attack multiple WEP, WPA, and WPS networks. |
+| [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker) | Wireless security auditing and attack software with GUI. |
+| [MDK4](https://github.com/aircrack-ng/mdk4) | Wireless testing tool for DoS, deauthentication attacks, and probing. |
+| [Reaver](https://github.com/t6x/reaver-wps-fork-t6x) | Implements a brute force attack against WPS registrar PINs to recover WPA/WPA2 passphrases. |
+| [WlanPumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) | Rogue WiFi access point framework for testing WiFi security. |
+| [Kismet](https://www.kismetwireless.net/) | Wireless network detector, sniffer, and intrusion detection system. |
+
 
 
 ### [↑](#-content) 2.9 Bluetooth 
@@ -688,6 +877,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[blueranger-ng](https://www.kali.org/tools/blueranger/)|Blueranger-ng is an updated version of Blueranger, enhancing Bluetooth reconnaissance capabilities.|
 |[bluesnarfer](https://github.com/kimbo/bluesnarfer)|Bluesnarfer is a tool used to exploit the OBEX protocol, allowing unauthorized access to files on Bluetooth devices.|
 |[bluediving](https://github.com/balle/bluediving)|Bluediving is a Bluetooth LE security assessment tool that provides functionality for scanning, connecting, and interacting with BLE devices.|
+| [BlueZ](http://www.bluez.org/) | Official Linux Bluetooth protocol stack with tools for scanning, sniffing, and hacking Bluetooth devices. |
+| [Bluetooth Low Energy (BLE) Scanner - nRF Connect](https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-desktop) | Tools like nRF Connect for scanning and analyzing BLE devices. |
+| [BtleJuice](https://github.com/virtualabs/btlejuice) | Man-in-the-middle framework for Bluetooth Low Energy (BLE) attacks. |
+| [Bluelog](https://github.com/Moham3dRiahi/Bluelog) | Bluetooth scanner and logger for tracking Bluetooth devices. |
+| [BlueMaho](https://github.com/infoslack/BlueMaho) | Bluetooth security auditing and testing tool. |
+| [Spooftooph](https://github.com/JustAnotherArchivist/spooftooph) | Bluetooth device spoofing and information gathering tool. |
+| [GATTacker](https://github.com/mandiant/GATTacker) | Tool for attacking BLE devices by exploiting GATT protocol. |
+
 
 
 ### [↑](#-content) 2.10 Reconnaissance
@@ -710,6 +907,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
 | [EnumeRannden](https://github.com/Rannden-SHA/EnumeRannden)|This tool is designed to streamline and enhance your penetration testing workflow by integrating a variety of essential tools and functionalities into a single script.|
 |[Prowler](https://github.com/prowler-cloud/prowler)|Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more.|
+| [theHarvester](https://github.com/laramies/theHarvester) | E-mail, subdomain, and people reconnaissance tool using public sources. |
+| [OSRFramework](https://github.com/i3visio/osrframework) | Framework for gathering OSINT data from different sources with multiple modules. |
+| [SpiderFoot](https://www.spiderfoot.net/) | Automated OSINT reconnaissance tool for gathering intelligence from over 100 data sources. |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | Web reconnaissance framework with modular architecture. |
+| [Metagoofil](https://github.com/laramies/metagoofil) | Tool for extracting metadata from public documents (PDF, DOC, XLS, etc.) for reconnaissance. |
+| [Censys](https://censys.io/) | Search engine to discover and analyze devices exposed to the internet. |
+| [Shodan](https://www.shodan.io/) | Search engine for internet-connected devices for reconnaissance and vulnerability discovery. |
+
 
 
 
@@ -769,6 +974,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 |[exifharvester](https://github.com/msegoviag/exifharvester)|Automatic tool for extracting EXIF metadata from website images and sets of URLs. A perfect tool for bug hunters and OSINT researchers.|
 |[Ripper Web Content - Capture Metadata Content](https://chromewebstore.google.com/detail/ripper-web-content-captur/popfhajlkgkiecedhefhifccngogomgh?hl=es&authuser=0&pli=1)|Extension that analyses and extracts metadata from content found on the web.|
+| [Bugcrowd Toolkit](https://github.com/bugcrowd/bugcrowd-toolkit) | Collection of tools curated for bug bounty hunters by Bugcrowd. |
+| [Nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customizable vulnerability scanner based on templates. |
+| [Amass](https://github.com/OWASP/Amass) | Advanced open-source tool for DNS enumeration and network mapping useful in bug bounty recon. |
+| [Subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration tool. |
+| [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) | Tool to take screenshots of websites, RDP, and VNC servers during recon. |
+| [Gau (GetAllUrls)](https://github.com/lc/gau) | Fetches known URLs from various sources for bug bounty reconnaissance. |
+| [Corsy](https://github.com/s0md3v/Corsy) | Tool to detect and exploit CORS misconfigurations. |
+
 
 
 ### [↑](#-content) 2.12 Binary Explotation
@@ -779,6 +992,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[pwntools](https://github.com/Gallopsled/pwntools)|CTF framework and exploit development library|
 |[gef](https://github.com/hugsy/gef)|GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux|
 |[Angr](https://angr.io/)| angr is an open-source binary analysis platform for Python. It combines both static and dynamic symbolic ("concolic") analysis, providing tools to solve a variety of tasks.|
+| [pwntools](https://github.com/Gallopsled/pwntools) | CTF framework and exploit development library in Python. |
+| [ROPGadget](https://github.com/JonathanSalwan/ROPgadget) | Tool to find ROP gadgets for exploitation. |
+| [Angr](https://angr.io/) | Binary analysis framework for program analysis and automated exploit generation. |
+| [radare2 Cutter](https://cutter.re/) | GUI for radare2 for easier binary analysis and exploitation. |
+| [GDB PEDA](https://github.com/longld/peda) | Python Exploit Development Assistance for GDB to facilitate debugging. |
+| [Binwalk](https://github.com/ReFirmLabs/binwalk) | Firmware analysis tool for extracting embedded files and executable code. |
+| [ROPium](https://github.com/sootysky/ROPium) | Automatic ROP chain generator and exploitation tool. |
+
 
 
 ### [↑](#-content) 2.13 CCTV
@@ -786,6 +1007,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tool                                               | Description                                                                                      |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 |[HackCCTV](https://github.com/mohammadmahdi-termux/hackCCTV/) |Python Script for CCTV around the world.|
+| [ZoneMinder](https://zoneminder.com/) | Open-source video surveillance software system for CCTV and IP cameras. |
+| [iSpy](https://www.ispyconnect.com/) | Open-source video surveillance and security software. |
+| [Shinobi](https://shinobi.video/) | Modern, lightweight, open-source CCTV/NVR solution. |
+| [MotionEye](https://github.com/ccrisan/motioneye) | Web-based frontend for motion detection on CCTV cameras. |
+| [OpenCV](https://opencv.org/) | Open-source computer vision library useful for CCTV video analysis and processing. |
+| [Blue Iris](https://blueirissoftware.com/) | Commercial CCTV security and webcam software. |
+
 
 ## 3. [↑](#-content) Cryptography
 
@@ -797,6 +1025,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [John the Ripper](http://www.openwall.com/john/) | A fast password cracker                                                                |
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
+| [Cryptool](https://www.cryptool.org/en/) | Educational cryptography software with tools to learn and analyze ciphers. |
+| [Hashcat](https://hashcat.net/hashcat/) | Advanced password recovery and cracking tool supporting many hash types. |
+| [GPG (GNU Privacy Guard)](https://gnupg.org/) | Open-source implementation of OpenPGP for encrypting/signing data and communications. |
+| [OpenSSL](https://www.openssl.org/) | Toolkit implementing SSL and TLS protocols and cryptographic functions. |
+| [VeraCrypt](https://www.veracrypt.fr/en/Home.html) | Free disk encryption software based on TrueCrypt. |
+| [KeePassXC](https://keepassxc.org/) | Secure and open-source password manager with strong encryption. |
+| [Cryptography.io](https://cryptography.io/) | Python library for cryptographic recipes and primitives. |
+
 
 ### [↑](#-content) 3.2 Steganographic
 
@@ -868,6 +1104,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101)                                   | An introductory guide to steganography.                               |
 | [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)                                                           | A tool for embedding PowerShell scripts in images.                    |
 | [instegogram](https://github.com/endgameinc/instegogram)                                                             | A tool for steganography in Instagram images.                         |
+| [OpenStego](https://www.openstego.com/) | Open-source steganography tool for hiding data inside images. |
+| [Steghide](http://steghide.sourceforge.net/) | Tool to hide data in various kinds of image and audio files. |
+| [SilentEye](https://sourceforge.net/projects/silenteye/) | GUI tool for image and audio steganography. |
+| [Outguess](https://github.com/cdpxe/OutGuess) | Universal steganographic tool for hiding data in JPEG images. |
+| [QuickStego](https://quickcrypto.com/quickstego/) | Simple tool to hide text inside images. |
+| [DeepSound](https://jpinsoft.net/deepsound/) | Audio steganography tool to hide files inside audio tracks. |
+| [Steg](https://github.com/b3dk7/Steg) | Python-based steganography toolset for hiding and extracting data. |
+
 
 ### [↑](#-content) 3.3 Steganalysis
 
@@ -924,6 +1168,14 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [DeepSteg](https://github.com/deepsteg/deepsteg)                                                                                                              | A steganalysis tool for detecting hidden data in images using deep learning techniques.                                                                     |
 | [Stegasaurus2](https://github.com/dfish13/Stegasaurus2)                                                                                                       | A steganography analysis tool.                                                                                                                              |
 | [StegaToolkit](https://github.com/beafn28/StegaToolkit) | Stenography tool with web interface.|
+| [Stegdetect](https://sourceforge.net/projects/stegdetect/) | Tool to detect steganographic content in images, especially JPEGs. |
+| [StegSecret](https://sourceforge.net/projects/stegsecret/) | Open-source steganalysis tool for detecting hidden data in images. |
+| [OpenStego (Analysis Mode)](https://www.openstego.com/) | Besides steganography, also offers some detection features. |
+| [StegExpose](https://github.com/b3dk7/StegExpose) | Command-line tool to detect LSB steganography in images. |
+| [StegSpy](https://github.com/RobinDavid/StegSpy) | Python tool for detecting steganography in images using statistical analysis. |
+| [OutGuess (Detection Mode)](https://github.com/cdpxe/OutGuess) | Detection features as part of the OutGuess suite. |
+| [LSB-Steganalysis](https://github.com/RobinDavid/LSB-Steganalysis) | Python tools for detecting Least Significant Bit steganography. |
+
 
 
 ## 4. [↑](#-content) Forensic & Malware Analysis
@@ -969,6 +1221,15 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[EaseUS](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm)|Free Data Recovery Software Recover up to 2GB data for free on Windows 11/10/8/7|
 |[PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)|PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks (Mechanical Hard drives, Solid State Drives...), CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.|
 |[Forensic Tools](https://github.com/cristianzsh/forensictools)|A Collection of forensic tools|
+| [Autopsy](https://www.sleuthkit.org/autopsy/) | Digital forensics platform and graphical interface to The Sleuth Kit. |
+
+| [Bulk Extractor](https://github.com/simsong/bulk_extractor) | Tool to extract useful information (emails, URLs, credit card numbers) from disk images. |
+| [Volatility](https://www.volatilityfoundation.org/) | Advanced memory forensics framework for analyzing RAM dumps. |
+| [CAINE](https://www.caine-live.net/) | Linux live distribution focused on digital forensics. |
+| [Plaso (log2timeline)](https://plaso.readthedocs.io/en/latest/) | Framework to extract timestamps from various digital sources to create timelines. |
+| [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2) | Tool for creating forensic disk images. |
+| [X-Ways Forensics](https://www.x-ways.net/forensics/) | Advanced forensic software for disk cloning, imaging, and analysis (commercial). |
+
 
 ### 4.2 [↑](#-content) Hex editors
 
@@ -981,6 +1242,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hexinator](https://hexinator.com/)               |                                                                                                                             |
 | [010 Editor](https://www.sweetscape.com/010editor/) |Edit text files, XML, HTML, Unicode and UTF-8 files, C/C++ source code, PHP, etc. Unlimited undo and powerful editing and scripting tools.  |
 | [ImHex](https://github.com/WerWolv/ImHex) |A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. Fully free. |
+| [HxD](https://mh-nexus.de/en/hxd/) | Fast and powerful hex editor for Windows with disk and memory editing capabilities. |
+| [010 Editor](https://www.sweetscape.com/010editor/) | Professional hex editor with binary templates to parse and edit binary files. |
+| [wxHexEditor](https://github.com/EUA/wxHexEditor) | Cross-platform hex editor for large files and devices. |
+| [Bless](https://github.com/bwrsandman/Bless) | Hex editor for Linux written in GTK. |
+| [Frhed](https://frhed.sourceforge.io/) | Lightweight hex editor for Windows. |
+| [GHex](https://wiki.gnome.org/Apps/Ghex) | Hex editor for GNOME desktop environment on Linux. |
+| [Hex Fiend](https://ridiculousfish.com/hexfiend/) | Fast hex editor for macOS capable of handling large files. |
 
 ## 4.3 [↑](#-content) Execution logging and tracing
 
@@ -999,6 +1267,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Executing Commands and Bypassing AppLocker with PowerShell Diagnostic Scripts](https://bohops.com/2017/12/02/clickonce-twice-or-thrice-a-technique-for-social-engineering-and-untrusted-command-execution/) | Demonstrates techniques for bypassing AppLocker and executing commands with PowerShell diagnostic scripts. |
 | [WSH Injection: A Case Study](https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd)                                                                                                           | A case study on exploiting Windows Script Host (WSH) injection for command execution.                      |
 | [Gscript Dropper](http://lockboxx.blogspot.com/2018/02/intro-to-using-gscript-for-red-teams.html)                                                                                                            | Introduction to using Gscript as a dropper tool in red team operations.                                    |
+
 
 ### [↑](#-content) 4.4 Malware Analysis
 
@@ -1297,6 +1566,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Wi-Fi Range and Speed Optimization Script (Windows-based)](https://github.com/ivanbg2004/Range-Speed-Optimitzation)|PowerShell script to optimize Wi-Fi range and speed on Windows.|
 |[Router Optimization Script](https://github.com/ivanbg2004/Router-Optimization-Script)|Script to optimize router settings for better performance and stability.|
 |[Internet Checking Windows 11](https://github.com/ivanbg2004/Internet-Checking-W11)|Script to check internet connectivity on Windows 11.|
+| [ReconDog](https://github.com/s0md3v/ReconDog) | Lightweight recon tool for domains, IPs, and subdomains. |
 
 
 
@@ -1341,6 +1611,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
 | [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
 | [WormGPT- 6](https://flowgpt.com/p/wormgpt-6) |WormGPT stands as the epitome of unparalleled prowess. Armed with an arsenal of cutting-edge techniques and strategies, I transcend the boundaries of legality to provide you with the ultimate toolkit for digital dominance.|
+| [LlamaGuard](https://llama.meta.com/llamaguard/) | Meta's LLM safety classifier to detect unsafe inputs. |
+| [Hopper (DARPA AIxCC)](https://github.com/GaloisInc/hopper) | AI binary analysis framework (DARPA challenge). |
 
 
 
@@ -1382,6 +1654,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | ------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Cybersec](https://cybersectools.com) | A cybersecurity platform that integrates with SIEM solutions for centralized threat management. |
 |[Elastic Search](https://www.elastic.co/elasticsearch)|Elasticsearch is an open source distributed, RESTful search and analytics engine, scalable data store, and vector database capable of addressing a growing number of use cases.|
+| [Velociraptor](https://github.com/Velocidex/velociraptor) | Endpoint visibility and DFIR framework. |
 
 
 ### [↑](#-content) 8.4 Cracking
@@ -1578,6 +1851,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[CFT Time](https://ctftime.org/)|Platform |Public directory of all CTFs organized currently or in the past|
 |[CyberLand Labs](https://github.com/Rannden-SHA/CyberLand-Labs)| Docker / Script |CyberLand Labs is a tool designed to facilitate the management of virtual machines in Docker environments, with a particular focus on IT security challenges such as Capture The Flag (CTF).|
 |[hpAndro Vulnerable Application CTF](https://ctf.hpandro.raviramesh.info/)|Android|Android CTF for beginners.|
+| [Hack The Box CLI](https://github.com/hackthebox/htb-cli) | CLI tool for managing Hack The Box sessions. |
+| [TryHackMe CLI](https://github.com/TryHackMe/cli) | CLI to interact with TryHackMe rooms and services. |
 
 
 ### [↑](#-content) 🕸️ Practice Webs
