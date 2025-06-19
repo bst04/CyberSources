@@ -4,7 +4,7 @@
 
 Welcome to the **Cybersources**! This project serves as a central hub for a wide range of tools, resources, and educational materials designed for cybersecurity professionals, enthusiasts, and learners. Whether you're just starting out or an experienced expert, you'll find everything you need to enhance your skills, stay updated with industry trends, and deepen your knowledge in this fast-evolving field. 
 
-**🎉 Join now the discord community (+1.9k members): https://discord.gg/6s9W3EQApw 🎉**
+**🎉 Join now the discord community (+2k members): https://discord.gg/6s9W3EQApw 🎉**
 
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=Social&logo=discord&logoColor=white)](https://discord.gg/HhjhQgnp54)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=Social&logo=reddit&logoColor=white)](https://www.reddit.com/r/cybersources/)
