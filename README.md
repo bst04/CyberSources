@@ -797,6 +797,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [John the Ripper](http://www.openwall.com/john/) | A fast password cracker                                                                |
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
+| [Cyberchef](https://gchq.github.io/CyberChef)    | A powerful web-based tool for encoding, decoding, encryption, and data analysis        | 
 
 ### [↑](#-content) 3.2 Steganographic
 
