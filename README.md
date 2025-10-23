@@ -29,7 +29,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 </div>
 
 
-## [**Check out the website‼️**](https://cybersources.site/)
 
 [![websitecyber](https://github.com/user-attachments/assets/8bedc240-6ffc-4ed8-a9d0-492e73a12798)](https://cybersources.site/)
 
