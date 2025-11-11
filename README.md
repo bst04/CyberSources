@@ -29,8 +29,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 </div>
 
 
-
-[![websitecyber](cybersources/cybersources.png)
+![websitecyber](cybersources/cybersources.png)
 
 
 
