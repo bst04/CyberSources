@@ -794,6 +794,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Aircrack](http://www.aircrack-ng.org/)          | Aircrack is 802.11 WEP and WPA-PSK keys cracking program.                              |
 | [Ciphey](https://github.com/ciphey/ciphey)       | Automated decryption tool using artificial intelligence & natural language processing. |
 | [Cyberchef](https://gchq.github.io/CyberChef)    | A powerful web-based tool for encoding, decoding, encryption, and data analysis        | 
+| [Don´t Leak My File](https://github.com/JkDevArg/dont-leak-my-file) | Document leak protection application developed in Python. It uses AES-256 encrypted watermarks and database tracking to detect potential leaks.|
+| [SkyCrypt](https://github.com/JkDevArg/skycript) | SkyCrypt is a file encryption and decryption application developed in Python. It uses the AES-256 algorithm to securely encrypt files and generates a one-time password (OTP) to validate decryption.  |
 
 ### [↑](#-content) 3.2 Steganographic
 
