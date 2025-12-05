@@ -1639,6 +1639,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Linux](https://roadmap.sh/linux)                                              | Step by step guide to learn Linux in 2024.                                             |
 | [Ethical Hacking](https://roadmap.sh/r/ethical-hacking-yyvh9)                  | Community driven roadmaps, articles and guides for developers to grow in their career. |
 | [the-hacker-roadmap](https://github.com/sundowndev/hacker-roadmap/tree/master) | Roadmap for hacker                                                                     |
+| [Cybersecurity Guide](https://cybersecurityguide.org/) | Cybersecurity Guide is an independent, comprehensive resource for individuals exploring education and career paths in cybersecurity. |
 
 ## [↑](#-content) 🖌️ Projects Based
 
