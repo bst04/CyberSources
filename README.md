@@ -1121,6 +1121,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Gravwell Community Edition](https://www.gravwell.io/gravwell-community-edition-plan)              | Full featured unstructured log SIEM/Security Data Lake with raw binary/pcap support                                                                                                         |
 | [VigilantOnion](https://github.com/andreyglauzer/VigilantOnion)                                    | Crawls and monitors .onion sites for specified keywords or changes.                                                                                                                         |
 | [OnionIngestor](https://github.com/danieleperera/OnionIngestor)                                    | Gathers data from Tor hidden services for analysis or intelligence purposes.                                                                                                                |
+| [Stix 2.1 Visualizer](https://stix-viewer.threatlandscape.io/) | Free interactive STIX 2.1 object visualizer. Paste any STIX bundle and instantly explore the relationship graph between threat actors, malware, campaigns, indicators, and more. |
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver)                                                           | DumpsterDiver is a tool, which can analyze big volumes of data in search of hardcoded secrets like keys (e.g. AWS Access Key, Azure Share Key or SSH keys) or passwords.                                                                                                                        |
 | [Faction](https://github.com/factionsecurity/faction) | Faction is an open-source tool that automates many aspects of manual penetration testing. Faction automates pen-test reports, tracks vulnerabilities, and schedules pen-test assessments. | 
 
@@ -1344,6 +1345,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
 | [WormGPT- 6](https://flowgpt.com/p/wormgpt-6) |WormGPT stands as the epitome of unparalleled prowess. Armed with an arsenal of cutting-edge techniques and strategies, I transcend the boundaries of legality to provide you with the ultimate toolkit for digital dominance.|
 | [ImmuniWeb Discovery](https://www.immuniweb.com/products/discovery/) | Continuous Threat Exposure Management (CTEM) |
+| [Threat Landscape AI](https://threatlandscape.ai/) | Conversational access to continuously updated, structured threat intelligence. |
 
 
 
