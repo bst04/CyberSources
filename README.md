@@ -1105,6 +1105,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tresorit](https://tresorit.com/)                       | Secure cloud storage and encryption solution.                                    |
 | [Dark Web Exposure and Phishing Detection Test](https://www.immuniweb.com/darkweb/) | Monitor and detect your Dark Web exposure, phishing and domain squatting. |
 | [ExtensionBrowser Ulock-Security](https://github.com/MammaniNelsonD/ExtensionBrowser_Ulock-Security_LickShield_AI/tree/main)| Browser extension that acts as your personal guardian against phishing and malicius links. |
+| [anon.li](https://anon.li/)                             | Private email aliases & end-to-end encrypted file sharing (up to 250GB)        |
 
 
 
@@ -1559,6 +1560,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Lena151: Reversing With Lena](https://archive.org/details/lena151)                                                                                           |
 | [Blue Team Introduction](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx)                                                 | Video of Blue Team Introduction - Fundamentals |
 |[SecTube](https://sectube.tv/)| On SecTube you will find hundreds of videos on offensive IT security that have been manually categorized. You can also search the videos by keyword using SecTube search bar.|
+|[pwn.guide](https://pwn.guide/)| Learn ethical hacking from 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense and cryptography. |
 
 
 ### [↑](#-content) 🚩 CTFs - Training
