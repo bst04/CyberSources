@@ -705,6 +705,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) | A tool to gather information from Windows machines by querying SMB shares and services. |
 | [EnumeRannden](https://github.com/Rannden-SHA/EnumeRannden)|This tool is designed to streamline and enhance your penetration testing workflow by integrating a variety of essential tools and functionalities into a single script.|
 |[Prowler](https://github.com/prowler-cloud/prowler)|Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more.|
+| [Nuclei](https://github.com/projectdiscovery/nuclei)| Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.|
 
 
 
@@ -764,6 +765,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Bug Bounty Hunting](https://www.bugbountyhunting.com/)|Bug Bounty Hunting Search Engine|
 |[exifharvester](https://github.com/msegoviag/exifharvester)|Automatic tool for extracting EXIF metadata from website images and sets of URLs. A perfect tool for bug hunters and OSINT researchers.|
 |[Ripper Web Content - Capture Metadata Content](https://chromewebstore.google.com/detail/ripper-web-content-captur/popfhajlkgkiecedhefhifccngogomgh?hl=es&authuser=0&pli=1)|Extension that analyses and extracts metadata from content found on the web.|
+|[gf](https://github.com/tomnomnom/gf) |A wrapper around grep, to help you grep for things.|
 
 
 ### [↑](#-content) 2.12 Binary Explotation
