@@ -161,6 +161,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Digital Digging OSINT](https://digitaldigging.org/osint/)|Collection of OSINT resources are organized by country and are useful for researchers, fact-checkers, and digital profilers.|
 |[toposint](https://start.me/p/vjqXe1/toposint-com)|Open Source Intelligence collections and other interests.|
 |[The OSINT Rack](https://www.mariosantella.com/the-osint-rack/)|A curated and growing list of open-source intelligence tools; explore resources across recon, social media, metadata, geolocation, and more.|
+|[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)|Cross-domain OSINT dashboard for maritime and airspace analysis, combining vessel tracking, official notices, environmental context, and satellite detections.|
 |[Breach House](https://Breach.house/)|An Open Crawler about Ransomware leaks, Traditional Breaches, Infostealer packages and Leads into a dark forums, telegram and dark web.|
 |[AboutIntel](https://www.aboutintel.com) |Cybersecurtiy Threat Inteligence platform that helps security and IT teams monitor, filter and prioritases OSINT and threat intelligence.|
 
