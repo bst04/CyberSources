@@ -50,6 +50,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [Tinder](#177--tinder)
     * [Reddit](#178--reddit)
     * [Telegram](#179--telegram)
+    * [X/Twitter](#1710--xtwitter)
 
 **Pentesting**
 * [Post Explotation](#21--post-explotation)
@@ -503,6 +504,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
 | [telegram-checker](https://github.com/unnohwn/telegram-checker) | A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction. |
+
+#### 1.7.10 [↑](#-content) X/Twitter
+
+| Tools                                              | Description                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data API for tweet search, profile lookups, follower exports, media downloads, monitoring, and webhooks. |
 
 ## 2. [↑](#-content) Pentesting
 
