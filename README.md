@@ -1358,6 +1358,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [Cynet 360](https://www.cynet.com/)                | Function: All-in-one security platform combining threat detection, incident response, and automation. Advantage: Particularly suitable for small businesses with limited cybersecurity resources. |
 | [Reveelium](https://www.alsego.com/reveelium/)     | Function: Anomaly detection and event correlation in information systems. Advantage: Ideal for identifying unusual behavior in logs of large organizations.     |
 | [AISources](https://github.com/brunoooost/AISources)| List of all AI tools and resources.|
+| [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)| Open source autonomous AI pentesting platform (web, Active Directory, Kubernetes, API) that proves each finding with a real exploit, plus a local Privacy Gateway so the LLM never sees raw sensitive data.|
 | [PentestGPT](https://pentestgpt.ai/)| PentestGPT provides advanced AI and integrated tools to help security teams conduct comprehensive penetration tests effortlessly.|
 | [WormGPT- 6](https://flowgpt.com/p/wormgpt-6) |WormGPT stands as the epitome of unparalleled prowess. Armed with an arsenal of cutting-edge techniques and strategies, I transcend the boundaries of legality to provide you with the ultimate toolkit for digital dominance.|
 | [ImmuniWeb Discovery](https://www.immuniweb.com/products/discovery/) | Continuous Threat Exposure Management (CTEM) |
