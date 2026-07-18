@@ -1831,6 +1831,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 |------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 [Mohamed Hamdi Ouardi](https://www.linkedin.com/in/ouardi-mohamed-hamdi/) |Mohamed Hamdi Ouardi is a cybersecurity expert and information system administrator|
 |[Dan Nanni](https://www.linkedin.com/in/xmodulo/)|Research scientist from the East Coast US. Makes graphics about cybersecurity tools and resources.|
+| [Bruno Salvatella](https://www.linkedin.com/in/brunosalvatella/) | Cybersecurity enthusiast sharing tools and resources everyday.|
 
 ## [↑](#-content) ⭐️ Star History
 
