@@ -53,7 +53,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [X/Twitter](#1710--xtwitter)
 
 **Pentesting**
-* [Post Explotation](#21--post-explotation)
+* [Post Exploitation](#21--post-exploitation)
 * [Deobfuscators](#22--deobfuscators) 
 * [Decompilers](#23--decompilers) 
 * [Disassembler and debuggers](#24--Disassembler-and-debuggers)
@@ -509,11 +509,13 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
-| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data API for tweet search, profile lookups, follower exports, media downloads, monitoring, and webhooks. |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data platform with 40+ tools, REST, webhooks, and MCP for search, profile research, follower exports, media downloads, and monitoring. |
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ## 2. [↑](#-content) Pentesting
 
-### 2.1 [↑](#-content) Post Explotation
+### 2.1 [↑](#-content) Post Exploitation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
