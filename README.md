@@ -50,9 +50,10 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
     * [Tinder](#177--tinder)
     * [Reddit](#178--reddit)
     * [Telegram](#179--telegram)
+    * [X/Twitter](#1710--xtwitter)
 
 **Pentesting**
-* [Post Explotation](#21--post-explotation)
+* [Post Exploitation](#21--post-exploitation)
 * [Deobfuscators](#22--deobfuscators) 
 * [Decompilers](#23--decompilers) 
 * [Disassembler and debuggers](#24--Disassembler-and-debuggers)
@@ -504,9 +505,17 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | -------------------------------------------------- | -------------------------------------------------------------- |
 | [telegram-checker](https://github.com/unnohwn/telegram-checker) | A Python tool for checking Telegram accounts via phone numbers or usernames. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction. |
 
+#### 1.7.10 [↑](#-content) X/Twitter
+
+| Tools                                              | Description                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------- |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data platform with 40+ tools, REST, webhooks, and MCP for search, profile research, follower exports, media downloads, and monitoring. |
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
 ## 2. [↑](#-content) Pentesting
 
-### 2.1 [↑](#-content) Post Explotation
+### 2.1 [↑](#-content) Post Exploitation
 
 | Tools                                                         | Description                                                                         |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
