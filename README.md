@@ -809,6 +809,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [Cyberchef](https://gchq.github.io/CyberChef)    | A powerful web-based tool for encoding, decoding, encryption, and data analysis        | 
 | [Don´t Leak My File](https://github.com/JkDevArg/dont-leak-my-file) | Document leak protection application developed in Python. It uses AES-256 encrypted watermarks and database tracking to detect potential leaks.|
 | [SkyCrypt](https://github.com/JkDevArg/skycript) | SkyCrypt is a file encryption and decryption application developed in Python. It uses the AES-256 algorithm to securely encrypt files and generates a one-time password (OTP) to validate decryption.  |
+| [Nutilz Bcrypt Generator](https://nutilz.com/bcrypt-generator) | Free browser-based tool to hash and verify passwords with bcrypt — pick a cost factor, generate a salted hash, and check a password against an existing hash. No signup, no data leaves your browser. |
 
 ### [↑](#-content) 3.2 Steganographic
 
