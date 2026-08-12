@@ -588,6 +588,9 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 |[403JUMP](https://github.com/trap-bytes/403jump)|Tool designed for penetration testers and bug bounty hunters to audit the security of web applications|
 |[0BL1V10N CVE-2024-25600 (Bricks Builder Plugin Exploit)](https://github.com/ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)|Exploit for CVE-2024-25600 in Bricks Builder (WordPress). Developed for TryHackMe’s Bricks Heist room. Enhanced from Tornad0007. From OD&H|
 | [SubdomainRadar](https://subdomainradar.io/)                               | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access|
+| [Qualys - SSL Labs](https://www.ssllabs.com/ssltest)                               | A free online service that performs a deep analysis of the configuration of any SSL web server on the public Internet |
+| [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/)                               | A free online tool that tests the SSL/TLS stack of your web or email server for security, cryptographic flaws, misconfigurations, and compliance with NIST and HIPAA standards |
+| [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/)                               | Test website and web server for security, privacy, encryption, protection from data scraping, and compliance with GDPR and PCI DSS |
 
 ### 2.6 [↑](#-content) Network
 
@@ -1537,6 +1540,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [LetsDefend](https://letsdefend.io/)|LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.|
 |[CyberEDU](https://cyber-edu.co/)|Gain knowledge, train your team or practice your security skills in the cybersecurity gym for the ethical hackers, offensive and defensive specialists.|
 |[CTI Academy](https://ctiacademy.io/)|A practical Cyber Threat Intelligence Training Platform featuring labs, simulations, and courses in the field of Cyber Threat Intelligence.|
+|[SocRadar University](https://university.socradar.io/)|An online educational platform offering courses for partners, employees, and customers in cybersecurity, digital risk protection, attack surface management, and threat intelligence.|
 
 ### [↑](#-content) 📝 Certifications
 
