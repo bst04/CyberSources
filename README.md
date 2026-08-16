@@ -1835,7 +1835,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 
 ## [↑](#-content) ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bst04/cybersources&type=Date)](https://star-history.com/#bst04/cybersources&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=bst04/cybersources&type=Date)](https://star-history.dera.page/#bst04/cybersources&Date)
 
 
 ## [↑](#-content) 💬 Collaborate
