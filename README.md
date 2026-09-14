@@ -159,6 +159,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [ClatScope](https://github.com/Clats97/ClatScope)|The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (42 features).|
 | [CC.LA](https://cc.la) | Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificate lookup, name server history, network diagnostics, and domain monitoring. No sign-up. |
 | [Vacato](https://vacato.io) | Free RDAP domain watchlist — scheduled checks + Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. Free tier: 10 domains. |
+| [Face2social](https://face2social.com) | Face search across public social media profile pictures only (Instagram, Facebook, TikTok, X) — does not crawl the open web, so PimEyes and FaceCheck.ID cover far more. Free preview without sign-up, paid plans beyond it. US only. |
 | [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon)|It allows for the extraction of various types of sensitive information including emails, phone numbers, hashes, credit cards, URLs, IP addresses, MAC addresses, SRV DNS records and more.|
 |[Deep Dork Web](https://guilherme-moraiss.github.io/Deep-Dork-Web/)|Automate Google Dorking for OSINT investigations. Search indexed sensitive data efficiently with pre-built queries.|
 |[Digital Digging OSINT](https://digitaldigging.org/osint/)|Collection of OSINT resources are organized by country and are useful for researchers, fact-checkers, and digital profilers.|
