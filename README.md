@@ -1504,6 +1504,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 |[SecTube](https://sectube.tv/)| On SecTube you will find hundreds of videos on offensive IT security that have been manually categorized. You can also search the videos by keyword using SecTube search bar.|
 | [Ransomchats](https://ransomch.at/) | A collection of redacted real-world ransomware negotiations. |
 | [Ransomware.live](https://www.ransomware.live) | Monitoring Ransomware groups and their victims in real-time |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open database of real-world AI agent security incidents (prompt injection, MCP, agent supply chain, rogue agents), each with a primary source and a note on whether there was a confirmed victim. |
 |[Corelan](https://www.corelan.be/)|Corelan Cybersecurity Research. Knowledge is not an object, it's a flow.|
 |[ired](https://ired.team)|This is publicly accessible personal red teaming notes about pentesting / red teaming experiments in a controlled environment that involve playing with various tools and techniques used by penetration testers, red teams and actual adversaries.|
 |[Hack By Steps](https://bst04s.gitbook.io/hack-by-steps)|Hack everything step by step! With a community for hacking and learning how to hack.|
