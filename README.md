@@ -169,6 +169,8 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[AboutIntel](https://www.aboutintel.com) |Cybersecurtiy Threat Inteligence platform that helps security and IT teams monitor, filter and prioritases OSINT and threat intelligence.|
 |[The Threat Codex](https://threatcodex.com/) |A website that tracks cybersecurity publications and provides threat summaries for threat actors, malware families, vulnerabilities, and online services.|
 |[Jev Social](https://github.com/socai-io/jev-social) |Jev-guided social research for Instagram, TikTok, and LinkedIn through a local browser, with captured posts, comments, videos, and source-linked reports.|
+| [cl0q](https://cl0q.com) | Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking |
+
 
 
 
