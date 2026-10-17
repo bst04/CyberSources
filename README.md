@@ -1172,6 +1172,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [WolrdEinnwes](https://world.einnews.com)           | News and search engine tools.                                                                                                                                    |
 | [IT Security Guru](https://www.itsecurityguru.org/) | IT Security Guru is a top resource for the latest cybersecurity news, covering threats, data breaches, and expert insights to help you stay informed and secure. |
+| [ICHI — Internet Cyber Health Index](https://ichi.global) | Free, source-transparent daily barometer of internet cyber health; aggregates threat alerts, CVEs, and telemetry from 28+ public sources (CISA KEV, Shodan, Censys, CVE/NVD feeds, US-CERT advisories) for an outside-in directional view of global cyber conditions. |
 
 ### 6.4 [↑](#-content) Search Engines
 
