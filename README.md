@@ -513,6 +513,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | Tools                                              | Description                                                    |
 | -------------------------------------------------- | -------------------------------------------------------------- |
+| [twtData X Trends Archive](https://twtdata.com/twitter-trends/) | Free archive of past X/Twitter trending lists by country and city, one dated page per day, no account needed. |
 | [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter data platform with 40+ tools, REST, webhooks, and MCP for search, profile research, follower exports, media downloads, and monitoring. |
 
 Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
