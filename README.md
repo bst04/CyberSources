@@ -433,6 +433,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [fansmetrics.com](http://fansmetrics.com/)                         | Tool for analyzing OnlyFans metrics.        |
 | [Onlysearch.com](https://onlysearch.co/)                           | Search tool for finding OnlyFans profiles.  |
 | [onlyfinder.com](https://onlyfinder.com/)                          | Tool for finding OnlyFans creators.         |
+| [onlyfansfinders.com](https://onlyfansfinders.com/)                | Search OnlyFans creators by city, category and price. |
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool.                       |
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
