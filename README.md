@@ -177,6 +177,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 
 | **Tool**                                                                           | **Description**                                                              |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [WhatsMyName Apps](https://whatsmynameapps.us/) ([Android](https://play.google.com/store/apps/details?id=whatsmyname.app.us)) | Free browser-based public username search without registration; manually verify candidate profiles. Independent of the original WhatsMyName project. |
 | [UserSearch](https://usersearch.org)                                               | Free tool to search usernames on 2000+ websites.                             |
 | [CheckUser](https://checkuser.vercel.app/)                                         | Search for usernames across social networks.                                 |
 | [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html) | Free tool to verify usernames registered on hundreds of sites.               |
