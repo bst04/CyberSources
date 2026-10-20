@@ -338,12 +338,12 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Hashtags for Likes](https://www.hashtagsforlikes.co)                                                          | Tool for finding the best hashtags for Instagram.                              |
 | [HypeAuditor](https://hypeauditor.com)                                                                         | Tool for analyzing the authenticity of influencers and their engagement.       |
 | [Iconosquare](http://iconosquare.com)                                                                          | Tool for managing and analyzing Instagram accounts.                            |
+| [IGDataHub](https://igdatahub.com/)                                                                            | Instagram follower history: report pages chart its dated follower readings, with engagement rate and top posts; the lookup shows any public profile's followers, following and latest post. |
 | [IGSuperStar](https://igsuperstar.com)                                                                         | Tool for finding Instagram influencers.                                        |
 | [Imgbunk](https://imgbunk.com)                                                                                 | Tool for searching and downloading Instagram photos.                           |
 | [ImgInn](https://imginn.com)                                                                                   | Tool for viewing and downloading Instagram stories anonymously.                |
 | [In Tags](https://play.google.com/store/apps/details?id=com.sunraylabs.socialtags)                             | Tool for finding the best tags for your Instagram posts.                       |
 | [INSSIST](https://chrome.google.com/webstore/detail/inssist-post-stories-dmw/bcocdbombenodlegijagbhdjbifpiijp) | Chrome extension for posting photos and stories on Instagram from desktop.     |
-| [InstaFollowers](https://www.instafollowers.co)                                                                | Tool for gaining followers and engagement on Instagram.                        |
 | [Instagram Crawler](https://github.com/hehpollon/Instagram-Crawler)                                            | Tool for scraping Instagram data.                                              |
 | [Instagram Explorer](https://www.osintcombine.com/instagram-explorer)                                          | Tool for exploring Instagram profiles and posts.                               |
 | [Instagram OSINT](https://github.com/sc1341/InstagramOSINT)                                                    | Open-source intelligence tool for Instagram.                                   |
@@ -359,8 +359,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [noninstagram](https://github.com/datvance/noinstagram)                                                        | Tool for Instagram data analysis.                                              |
 | [Osi.ig](https://github.com/th3unkn0n/osi.ig)                                                                  | Tool for Instagram OSINT.                                                      |
 | [Osintgram](https://github.com/Datalux/Osintgram)                                                              | OSINT tool for analyzing Instagram profiles and posts.                         |
-| [Otzberg.net](https://www.otzberg.net/iguserid/index.php)                                                      | Tool for finding Instagram user IDs.                                           |
-| [Panoramiq](https://apps.hootsuite.com/apps/panoramiq)                                                         | Tool for scheduling and managing Instagram posts.                              |
 | [Phantom Buster](https://phantombuster.com/phantombuster)                                                      | Automation tool for social media platforms.                                    |
 | [Picodash](https://www.picodash.com)                                                                           | Tool for searching and organizing Instagram content.                           |
 | [Scylla](https://github.com/josh0xA/Scylla)                                                                    | Tool for Instagram OSINT and data scraping.                                    |
@@ -374,7 +372,6 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [trendHERO](https://trendhero.io)                                                                              | Tool for influencer marketing and analytics.                                   |
 | [Webstagram](https://webstagram.org)                                                                           | Instagram web viewer and search tool.                                          |
 | [Flufi](https://flufi.me/)                                                                                     | A tool for exploring public stories, posts, reels, tags, followers, and more.. |
-| [Find Instagram User ID](https://findinstagramuserid.com/)                                                     | A tool to find the Instagram user ID for any profile.                          |
 
 #### 1.7.2 [↑](#-content) Linkedin
 
