@@ -1778,6 +1778,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [**Social Engineering: The Art of Human Hacking**](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539)                                                             | Explores the psychological and technical aspects of social engineering and how to protect against it.             |
 | [**Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous**](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146)           | A guide to tools and techniques for maintaining anonymity online while communicating, publishing, or researching. |
 |[CFT Guide](https://trailofbits.github.io/ctf/)|Online book about preparing for CTFs|
+| [Confronto Cibernético](https://confrontocibernetico.com.br/) | Portuguese-language book by Hiago Kin Levi (Brasport, 2026) on advanced persistent threats and incident response. Paid book with chapter excerpts available online. |
 
 
 
