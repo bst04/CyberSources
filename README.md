@@ -1130,6 +1130,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [Dark Web Exposure and Phishing Detection Test](https://www.immuniweb.com/darkweb/) | Monitor and detect your Dark Web exposure, phishing and domain squatting. |
 | [ExtensionBrowser Ulock-Security](https://github.com/MammaniNelsonD/ExtensionBrowser_Ulock-Security_LickShield_AI/tree/main)| Browser extension that acts as your personal guardian against phishing and malicius links. |
 | [anon.li](https://anon.li/)                             | Private email aliases & end-to-end encrypted file sharing (up to 250GB)        |
+| [Spoof Me](https://spoof-me.com/) | Browser extension that switches user agent, language, timezone and screen signals, and flags pages reading fingerprinting APIs. |
 
 
 
