@@ -168,6 +168,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 |[Breach House](https://Breach.house/)|An Open Crawler about Ransomware leaks, Traditional Breaches, Infostealer packages and Leads into a dark forums, telegram and dark web.|
 |[AboutIntel](https://www.aboutintel.com) |Cybersecurtiy Threat Inteligence platform that helps security and IT teams monitor, filter and prioritases OSINT and threat intelligence.|
 |[The Threat Codex](https://threatcodex.com/) |A website that tracks cybersecurity publications and provides threat summaries for threat actors, malware families, vulnerabilities, and online services.|
+|[ICHI — Internet Cyber Health Index](https://ichi.global)|Free, source-transparent daily barometer of internet-wide cyber health. Aggregates threat feeds, vulnerability databases, and network-monitoring signals into a single directional index. I built this to be a one-stop view of current internet cyber conditions — directional outside-in signal, not an org-specific risk score. Methodology at ichi.global/methodology.|
 |[Jev Social](https://github.com/socai-io/jev-social) |Jev-guided social research for Instagram, TikTok, and LinkedIn through a local browser, with captured posts, comments, videos, and source-linked reports.|
 
 
