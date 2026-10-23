@@ -1425,6 +1425,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [CrackStation](https://crackstation.net/)  | A tool for cracking hashes and testing password strength.                       |
 | [MD5 Hash Generator](https://www.md5hashgenerator.com/) | A tool to generate MD5 hashes from input data.                                  |
 | [Nutilz Hash Generator](https://nutilz.com/hash-generator) | Free browser-based tool to generate SHA-1, SHA-256, SHA-384 and SHA-512 hashes from text — 100% client-side, no data leaves your device. |
+| [Benchvale Hash Generator](https://benchvale.com/dev/hash-generator) | Hashes text or a local file with MD5 and the SHA family, or with a keyed HMAC whose key can be entered as hex or base64, in the browser. |
 | [Kaspersky Password Checker](https://password.kaspersky.com/es/) | A service to check the strength of your passwords.                              |
 | [1Password (Developers and Students)](https://1password.com/developers/students) | A secure password manager offering discounts for developers and students.       |
 | [ZIP Password Cracker](https://github.com/ivanbg2004/zip-password-cracker) |Script to crack password-protected ZIP files using brute force. BY OD&H.|
