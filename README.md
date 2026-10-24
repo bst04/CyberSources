@@ -595,6 +595,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [Qualys - SSL Labs](https://www.ssllabs.com/ssltest)                               | A free online service that performs a deep analysis of the configuration of any SSL web server on the public Internet |
 | [ImmuniWeb - SSL Security Test](https://www.immuniweb.com/ssl/)                               | A free online tool that tests the SSL/TLS stack of your web or email server for security, cryptographic flaws, misconfigurations, and compliance with NIST and HIPAA standards |
 | [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/)                               | Test website and web server for security, privacy, encryption, protection from data scraping, and compliance with GDPR and PCI DSS |
+| [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) | Self-hosted web vulnerability scanner (Docker, Apache-2.0) with 200+ deterministic modules: OWASP Top 10, SQLi, XSS, SSRF, subdomain takeover, WordPress/CMS, TLS/DNS/email misconfigurations, exposed services and AI/LLM attack surfaces, with CVSS-scored evidence and PDF reporting |
 
 ### 2.6 [↑](#-content) Network
 
