@@ -252,6 +252,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [SingalHire](https://www.signalhire.com/)|Find Valid Emails and Phone Numbers|
 | [LeakRadar](https://leakradar.io/)|Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API|
 | [Have I Been Ransom](https://haveibeenransom.com/)|Because people have the right to know if their data has been leaked. Check if you have been ransomed.|
+| [Opsis](https://useopsis.com/)|Find the accounts linked to an email address, username or domain across 1000+ source modules (reverse email lookup). Freemium.|
 
 #### 1.4 [↑](#-content) Phone Number Search
 
