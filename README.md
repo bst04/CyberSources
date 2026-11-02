@@ -437,7 +437,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [hubite.com/onlyfans-search/](https://hubite.com/onlyfans-search/) | OnlyFans search tool.                       |
 | [SimilarFans](https://similarfans.com/)                            | Tool for finding similar OnlyFans profiles. |
 | [FanSearch](https://www.fansearch.com/)                            | Comprehensive search tool for OnlyFans.     |
-| [TastyFans](https://tastyfans.com/)                                | Search engine for OnlyFans and Fansly creators. |
+| [HornyIndex](https://hornyindex.com/)                              | Search engine for OnlyFans and Fansly creators. |
 
 #### 1.7.5 [↑](#-content) Discord
 
