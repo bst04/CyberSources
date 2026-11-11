@@ -1090,6 +1090,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [DeleteMe](https://joindeleteme.com/)     | Delete your information on all your accounts.             |
 | [incogni](https://incogni.com/)           | Delete your information of databrokers.                   |
 | [JustDeleteMe](https://justdeleteme.xyz/) | Delete your accounts.                                     |
+| [EverPosted](https://everposted.com/) | Scan your own Facebook, X, Reddit, Google, Discord and ChatGPT data exports in the browser to find old posts worth deleting. Free scan, paid report. |
 
 
 ### [↑](#-content) 5.2 Password Managers
