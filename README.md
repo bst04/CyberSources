@@ -426,6 +426,7 @@ Welcome to the **Cybersources**! This project serves as a central hub for a wide
 | [Tokvid](https://tokvid.com)                                                                                                      | Tool for downloading TikTok videos.                        | --- |
 | [TubeHi](https://tubehi.com)                                                                                                      | Tool for analyzing TikTok and YouTube content.             | --- |
 | [Vidnice](https://vidnice.com)                                                                                                    | Tool for analyzing TikTok profiles and content.            | --- |
+| [VidQuark](https://vidquark.com/)                                                                                                 | Public TikTok MP4 downloads and MP3 conversion, with file-saving help. | --- |
 
 #### 1.7.4 [↑](#-content) OnlyFans
 
