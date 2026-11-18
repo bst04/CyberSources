@@ -1033,6 +1033,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 | [The DFIR Report](https://cybersectools.com/tools/dfir-report)                             | In-depth threat intelligence reports and services.                            |
 | [Mobile Audit](https://cybersectools.com/tools/mobile-audit)                               | SAST and malware analysis tool for Android APKs.                              |
 | [Mastiff](https://cybersectools.com/tools/mastiff)                                         | Static analysis framework for extracting key characteristics from files.      |
+| [REA](https://github.com/morluto/rea)                                                      | Local CLI and MCP server for static binary triage with supporting evidence.   |
 | [Malheur](https://cybersectools.com/tools/malheur)                                         | Tool for automatic analysis of malware behavior using machine learning.       |
 | [PyaraScanner](https://cybersectools.com/tools/pyarascanner)                               | Multithreaded YARA scanner for incident response or malware zoos.             |
 | [Static File Analyzer (SFA)](https://cybersectools.com/tools/static-file-analyzer)         | A deep analysis tool for malicious files using ClamAV and YARA rules.         |
