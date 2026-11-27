@@ -1623,6 +1623,8 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 
 | Web Practice                                        | Category         | Description                                                                                           |
 | --------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------- |
+|[WebVerse-Labs](https://webverselabs-pro.com/)       | Web Sec Labs     |  A platform providing practical labs of all web related catagories to learn and practice for skills on web penetration testing.                                                      |
+|
 | [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
 | [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
 | [PortSwigger Web Security Academy](https://portswigger.net/web-security/learning-paths) | Training and Labs          | An online platform offering free, hands-on trainings, tutorials and labs on web application security, covering various attack techniques and defensive strategies.  |
