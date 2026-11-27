@@ -1621,29 +1621,28 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 
 ### [↑](#-content) 🕸️ Practice Webs
 
-| Web Practice                                        | Category         | Description                                                                                           |
+| Web Practice | Category | Description |
 | --------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------- |
 | [WebVerse](https://webverselabs-pro.com/) | Web Sec Labs | A platform providing practical labs of all web-related categories to learn and practice skills in web penetration testing. |
-|
-| [Codeforces](https://codeforces.com)                | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests.         |
-| [DevChallenges](https://devchallenges.io/dashboard) | Challenges       | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
-| [PortSwigger Web Security Academy](https://portswigger.net/web-security/learning-paths) | Training and Labs          | An online platform offering free, hands-on trainings, tutorials and labs on web application security, covering various attack techniques and defensive strategies.  |
-| [PentesterLab](https://pentesterlab.com/)                                               | Exercises and Labs         | A platform providing practical exercises and labs to learn and practice for skills on web penetration testing.                                                      |
-| [Hacker101-CTF](https://ctf.hacker101.com/)                                             | Web CTFs                   | A CTF platform offering real-world challenges for web penetration testers or bug bounty hunters to hone their skills in finding and exploiting web vulnerabilities. |
-| [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download)    | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation.                                   |
-| [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)                                 | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities.                                                |
-| [Reversing.Kr](http://reversing.kr/)                                           |Challenge Platform                 | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis.     |
-|[CFTd](https://ctfd.io/)|  Web CTFs|Open Source CTF Plataform|
-| [TryHackMe](https://tryhackme.com/)          | Web CTFs                   | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced.          |
-| [HackTheBox](https://app.hackthebox.com/)                             |Web CTFs                   | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels.                      |
-| [picoCTF](https://play.picoctf.org/)                       |Web CTFs                   | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more.                                 |
-| [Root Me](https://www.root-me.org/)                       |Web CTFs                   | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc.                                     |
-| [OverTheWire (Wargames)](https://overthewire.org/wargames/)                   | Exercises and Linux Challenges                   |A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges.           |
-| [CTFLearn](https://ctflearn.com/)             |Web CTFs                   | A beginner-friendly CTF platform with challenges covering various cybersecurity topics.        |
-| [CTFTime](https://ctftime.org/)       | Web CTFs                   |A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
-| [Cryptohack](https://cryptohack.org/)      |Web CTFs                   | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving.            |
-| [Vulnerable Codes](https://vulnerable.codes/)|Plaform, Vulnerabilities |Learn to research vulnerabilities by reviewing the source code of real-world cases.|
-|[pwn4love](https://www.pwn4love.com/)|CTF, Challenges| Learn to hack with some challenges and join the community.|
+| [Codeforces](https://codeforces.com) | Problems Solving | Codeforces is a project joining people interested in and taking part in programming contests. |
+| [DevChallenges](https://devchallenges.io/dashboard) | Challenges | Platform to improve your coding skills through practical projects and build an outstanding portfolio. |
+| [PortSwigger Web Security Academy](https://portswigger.net/web-security/learning-paths) | Training and Labs | An online platform offering free, hands-on trainings, tutorials and labs on web application security, covering various attack techniques and defensive strategies. |
+| [PentesterLab](https://pentesterlab.com/) | Exercises and Labs | A platform providing practical exercises and labs to learn and practice for skills on web penetration testing. |
+| [Hacker101-CTF](https://ctf.hacker101.com/) | Web CTFs | A CTF platform offering real-world challenges for web penetration testers or bug bounty hunters to hone their skills in finding and exploiting web vulnerabilities. |
+| [Damn Vulnerable Web Application (DVWA)](https://github.com/digininja/DVWA#download) | Vulnerable Web Application | An intentionally vulnerable web application designed to practice web application security testing and vulnerability exploitation. |
+| [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/) | Vulnerable Web Application | An insecure online web application created by OWASP for practicing and learning about different web vulnerabilities. |
+| [Reversing.Kr](http://reversing.kr/) | Challenge Platform | A reverse engineering challenge platform designed to build skills in binary exploitation and malware analysis. |
+| [CTFd](https://ctfd.io/) | Web CTFs | Open Source CTF Plataform |
+| [TryHackMe](https://tryhackme.com/) | Web CTFs | A guided cybersecurity training platform with interactive, hands-on labs and ctfs on various topics from beginner to advanced. |
+| [HackTheBox](https://app.hackthebox.com/) | Web CTFs | A cybersecurity training platform with virtual hacking labs and real-world challenges for all skill levels. |
+| [picoCTF](https://play.picoctf.org/) | Web CTFs | A CTF platform that has a wide range of CTF challenges related to various topics like Web Exploitation, Cryptography, Reverse Engineering, Forensics, Binary Exploitation and more. |
+| [Root Me](https://www.root-me.org/) | Web CTFs | A platform to practice various relevant CTF challenges based on Web, Steganography, App, Forensics, Network, Programming, etc. |
+| [OverTheWire (Wargames)](https://overthewire.org/wargames/) | Exercises and Linux Challenges | A collection of wargames designed to teach Linux, networking, and exploitation through progressively harder challenges. |
+| [CTFLearn](https://ctflearn.com/) | Web CTFs | A beginner-friendly CTF platform with challenges covering various cybersecurity topics. |
+| [CTFTime](https://ctftime.org/) | Web CTFs | A competitive CTF platform that tracks the CTF events worldwide and allows teams of CTF players to compete and get tracks of scores, rankings and ratings. |
+| [Cryptohack](https://cryptohack.org/) | Web CTFs | A platform focused on cryptography-based CTF challenges, that teaches concepts through problem-solving. |
+| [Vulnerable Codes](https://vulnerable.codes/) | Platform, Vulnerabilities | Learn to research vulnerabilities by reviewing the source code of real-world cases. |
+| [pwn4love](https://www.pwn4love.com/) | CTF, Challenges | Learn to hack with some challenges and join the community. |
 
 
 ### [↑](#-content) 📙 Open-Source Repositories
